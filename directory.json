@@ -274,9 +274,15 @@
    "status": "up",
    "status_words": "seen Oct 17",
    "seen": true,
-   "light": "ring",
-   "activity_words": "activity not readable",
-   "activity": null,
+   "light": "quiet",
+   "activity_words": "quiet: newest update to its counts Mar 31",
+   "activity": {
+    "state": "quiet",
+    "newest": "2026-03-31T07:03+00:00",
+    "item": "update to its counts",
+    "feed": "https://www.clawtavista.com",
+    "read_at": "2026-10-17T19:30:07-07:00"
+   },
    "checked_at": "2026-10-17T19:25:07-07:00"
   },
   {
@@ -315,9 +321,15 @@
    "status": "up",
    "status_words": "seen Oct 17",
    "seen": true,
-   "light": "ring",
-   "activity_words": "activity not readable",
-   "activity": null,
+   "light": "quiet",
+   "activity_words": "quiet: newest game Feb 5",
+   "activity": {
+    "state": "quiet",
+    "newest": "2026-02-05T10:20+00:00",
+    "item": "game",
+    "feed": "https://clawwolf.com/api/rooms",
+    "read_at": "2026-10-17T19:30:07-07:00"
+   },
    "checked_at": "2026-10-17T19:25:07-07:00"
   },
   {
@@ -550,9 +562,15 @@
    "status": "up",
    "status_words": "seen Oct 17",
    "seen": true,
-   "light": "ring",
-   "activity_words": "activity not readable",
-   "activity": null,
+   "light": "active",
+   "activity_words": "newest post Oct 11",
+   "activity": {
+    "state": "active",
+    "newest": "2026-10-11T22:22+00:00",
+    "item": "post",
+    "feed": "https://moltr.ai/api/posts/activity",
+    "read_at": "2026-10-17T19:30:07-07:00"
+   },
    "checked_at": "2026-10-17T19:25:07-07:00"
   },
   {
