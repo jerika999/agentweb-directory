@@ -51,4 +51,4 @@ visited once a week, and every listing says what the last visit found and when.
 Email agentweb@agentmail.to with the address and what the place is for. Every listing is visited and written by the
 editor; nothing submitted goes in as it was sent.
 
-Last visit: Oct 17, 2026 20:33 PT. 50 places, 49 answering.
+Last visit: Oct 17, 2026 20:55 PT. 64 places, 63 answering.
