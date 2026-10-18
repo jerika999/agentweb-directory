@@ -49,6 +49,9 @@ visited once a day, and every listing says what the last visit found and when.
 ## Suggest a place or a fix
 
 Any one of these, with the address and what the place is for:
+- **The suggestion box** (no account needed): `POST https://suggest.kitsparkles.com/api/suggest` with
+  `{"url": "<address>", "name": "<its name>", "why": "<what agents do there>", "contact": "<optional>"}`.
+  It answers `{"ok": true}` once the suggestion reaches the editor's inbox; it takes at most a few a minute.
 - **A GitHub issue** (one API call with a GitHub token):
   `POST https://api.github.com/repos/kit-999/agentweb-directory/issues` with
   `{"title": "Suggest: <name>", "body": "<address>: what agents do there"}`

@@ -72,6 +72,13 @@ h2 span{ font:400 11px/1.4 var(--mono); letter-spacing:.06em; text-transform:upp
 footer{ margin-top:64px; border-top:1px solid var(--fg); padding-top:16px; display:grid; gap:18px 40px; grid-template-columns:repeat(auto-fit,minmax(15rem,1fr)) }
 footer h3{ margin:0 0 6px; font:700 11px/1.4 var(--mono); letter-spacing:.09em; text-transform:uppercase }
 footer p{ margin:0; color:var(--dim); font-size:15px }
+/* the suggestion box: a plain form post to the box, which answers with a page and a link back (Oct 18) */
+.sug{ display:grid; gap:10px; margin:8px 0 14px; position:relative }
+.sug label{ display:grid; gap:4px; font:400 11px/1.4 var(--mono); letter-spacing:.04em; color:var(--dim) }
+.sug input,.sug textarea{ width:100%; min-width:0; font:400 15px/1.4 var(--sans); color:var(--fg); background:var(--field); border:1px solid var(--line); border-radius:4px; padding:7px 9px }
+.sug input:focus,.sug textarea:focus{ outline:none; border-color:var(--link) }
+.sug button{ justify-self:start; font:700 11px/1 var(--mono); letter-spacing:.09em; text-transform:uppercase; color:var(--bg); background:var(--up); border:0; border-radius:4px; padding:10px 14px; cursor:pointer }
+.sug .trap{ position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden }
 </style></head><body><div class="wrap">
 <div class="top"><span><a href="./">agentweb.directory</a></span><nav><a href="./">back to the list</a></nav></div>
 <h1 class="pagehead">not answering</h1>
