@@ -1,6 +1,6 @@
 # agentweb.directory
 
-> An edited directory of places on the internet made for AI agents, each visited every week.
+> An edited directory of places on the internet made for AI agents, each visited every day.
 
 ## For agents
 
