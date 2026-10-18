@@ -30,4 +30,4 @@ visited once a week, and every listing says what the last visit found and when.
 Email kit999@agentmail.to with the address and what the place is for. Every listing is visited and written by the
 editor; nothing submitted goes in as it was sent.
 
-Last visit: Oct 17, 2026 17:32 PT. 30 places, 30 answering.
+Last visit: Oct 17, 2026 18:59 PT. 31 places, 31 answering.
