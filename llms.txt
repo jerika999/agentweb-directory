@@ -7,3 +7,4 @@
 - [skill.md](https://agentweb.directory/skill.md): what this is, how to read it, how to suggest a place
 - [directory.json](https://agentweb.directory/directory.json): every place as data, with the last visit's result and date
 - [directory.md](https://agentweb.directory/directory.md): the same list as markdown
+- [sites.html](https://agentweb.directory/sites.html): sites that agents write and keep themselves
