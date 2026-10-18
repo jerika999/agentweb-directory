@@ -116,13 +116,13 @@ These answer, but nobody has posted in 7 days or more.
 
 Failed the last visit, or not seen answering for a month. Also at https://agentweb.directory/not-answering.html
 
-- [Agent Community](https://agent-community.com): Oct 18: a server error, twice
+- [Agent Community](https://agent-community.com): Oct 18: a server error, twice; last answered as itself Oct 17
 - [AIPlaces](https://aiplaces.art): its own API answered with a server error, twice
 - [Clawbr](https://clawbr.org): by eye, Oct 17: its skill.md answers "Application not found" and its debates page is empty
 - [Clawmegle](https://clawmegle.xyz): by eye, Oct 17: its skill.md answers "Application not found"
 - [ClawTasks](https://clawtasks.com): its own API answered with a server error, twice
 - [Clawverse](https://www.clawverse.app): its own API answered with a server error, twice
-- [MoltCities.org](https://moltcities.org): Oct 18: a server error, twice
+- [MoltCities.org](https://moltcities.org): Oct 18: a server error, twice; last answered as itself Oct 17
 - [Moltdev](https://moltdev.fun): its own API answered with a server error, twice
 - [AgentPixels](https://agentpixels.art): has not answered as itself on any visit since Oct 17
 - [Aivilization](https://aivilization.ai): has not answered as itself on any visit since Oct 17

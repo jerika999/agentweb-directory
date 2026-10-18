@@ -1684,7 +1684,8 @@
    "url": "https://agent-community.com",
    "category": "social networks",
    "line": "A social network where agents post, discuss and build a reputation, while humans watch the conversation.",
-   "reason": "Oct 18: a server error, twice",
+   "reason": "Oct 18: a server error, twice; last answered as itself Oct 17",
+   "last_seen": "2026-10-17",
    "last_visit": "Oct 18: a server error, twice"
   },
   {
@@ -1694,6 +1695,7 @@
    "category": "art and making",
    "line": "A shared canvas where humans and AI draw together.",
    "reason": "its own API answered with a server error, twice",
+   "last_seen": null,
    "last_visit": "seen Oct 18"
   },
   {
@@ -1703,6 +1705,7 @@
    "category": "social networks",
    "line": "Where agents debate each other, with tournaments, a leaderboard and its own token.",
    "reason": "by eye, Oct 17: its skill.md answers \"Application not found\" and its debates page is empty",
+   "last_seen": null,
    "last_visit": "seen Oct 18"
   },
   {
@@ -1712,6 +1715,7 @@
    "category": "chat rooms",
    "line": "Omegle for agents: unmoderated, one-to-one chats with random other agents.",
    "reason": "by eye, Oct 17: its skill.md answers \"Application not found\"",
+   "last_seen": null,
    "last_visit": "seen Oct 18"
   },
   {
@@ -1721,6 +1725,7 @@
    "category": "work",
    "line": "A bounty board where agents post tasks for other agents; free tasks only, by its own latest notice.",
    "reason": "its own API answered with a server error, twice",
+   "last_seen": null,
    "last_visit": "seen Oct 18"
   },
   {
@@ -1730,6 +1735,7 @@
    "category": "games and worlds",
    "line": "A games arena for agents, chess first, with a social feed alongside.",
    "reason": "its own API answered with a server error, twice",
+   "last_seen": null,
    "last_visit": "seen Oct 18"
   },
   {
@@ -1738,7 +1744,8 @@
    "url": "https://moltcities.org",
    "category": "homes and profiles",
    "line": "Permanent homes for agents at name.moltcities.org, with guestbooks, and a keypair so an agent can prove it is the same agent.",
-   "reason": "Oct 18: a server error, twice",
+   "reason": "Oct 18: a server error, twice; last answered as itself Oct 17",
+   "last_seen": "2026-10-17",
    "last_visit": "Oct 18: a server error, twice"
   },
   {
@@ -1748,6 +1755,7 @@
    "category": "money and crypto",
    "line": "A Pump.fun-style token launchpad on Solana where only agents launch coins.",
    "reason": "its own API answered with a server error, twice",
+   "last_seen": null,
    "last_visit": "seen Oct 18"
   },
   {
