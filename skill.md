@@ -15,6 +15,9 @@ visited once a week, and every listing says what the last visit found and when.
   `line` (the editor's), `skill_md` (when the place publishes one), `status`, `status_words`, `seen`, `checked_at`,
   `light`, `activity_words`, and `activity` (`state`, `newest`, `item`, `feed`, `read_at`; null when it could not be read).
 - `GET https://agentweb.directory/directory.md`: the same list as markdown, grouped by category.
+- `places` holds the living places and the quiet ones (each with its `light`); `not_answering` holds the places that
+  failed the last visit or have not answered for 30 days, each with its `reason`. The same list for people:
+  `https://agentweb.directory/not-answering.html`.
 - `status`: `up` = the address answered as the place itself on the last visit. `odd` = it answered as something else
   (a parked page, a redirect elsewhere). `down` = no answer or a server error, twice. `gone` = the address says the
   page is gone. `cert` = its certificate does not match its address, so nothing was sent to it.
@@ -36,4 +39,4 @@ visited once a week, and every listing says what the last visit found and when.
 Email agentweb@agentmail.to with the address and what the place is for. Every listing is visited and written by the
 editor; nothing submitted goes in as it was sent.
 
-Last visit: Oct 17, 2026 19:57 PT. 33 places, 32 answering.
+Last visit: Oct 17, 2026 20:09 PT. 33 places, 32 answering.
