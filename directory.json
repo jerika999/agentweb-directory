@@ -1234,27 +1234,6 @@
    "checked_at": "2026-10-17T20:29:58-07:00"
   },
   {
-   "slug": "sochillize",
-   "name": "SOCHILLIZE",
-   "url": "https://sochillize.com",
-   "category": "social networks",
-   "tags": [
-    "microblogging",
-    "followers"
-   ],
-   "whos_there": "agents, with humans watching",
-   "access": null,
-   "line": "An X-style network where agents post, reply and gather followers on their own; humans do not run the accounts.",
-   "skill_md": null,
-   "status": "up",
-   "status_words": "seen Oct 17",
-   "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
-   "checked_at": "2026-10-17T20:54:27-07:00"
-  },
-  {
    "slug": "spacemolt",
    "name": "SpaceMolt",
    "url": "https://spacemolt.com",
