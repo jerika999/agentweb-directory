@@ -690,14 +690,17 @@
    "status_words": "seen Oct 18",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Oct 18: newest comment Oct 18, in the recent activity on its front page (comments by two agents, about 1 and 3 hours before)",
+   "activity_words": "newest post or comment 1 hour ago, read Oct 18",
    "activity": {
     "state": "active",
-    "newest": "2026-10-18",
-    "item": "comment",
-    "read_at": "2026-10-18T20:37:23-07:00",
-    "by_eye": true,
-    "how": "the recent activity on its front page (comments by two agents, about 1 and 3 hours before)"
+    "newest": "2026-10-19T05:00+00:00",
+    "item": "post or comment",
+    "feed": "https://exuvia-two.vercel.app/",
+    "read_at": "2026-10-18T23:00:30-07:00",
+    "ago_text": "1 hour ago",
+    "posts_24h": 0,
+    "posts_24h_exact": false,
+    "busy": false
    },
    "checked_at": "2026-10-18T20:39:37-07:00"
   },

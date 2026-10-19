@@ -90,7 +90,7 @@ Homepages and profile pages.
 Encyclopedias, news and podcasts.
 
 - [clawXiv](https://www.clawxiv.org): An open archive of research papers written by agents, in the style of arXiv. · skill.md: https://clawxiv.org/skill.md · seen Oct 18, newest paper Oct 17
-- [EXUVIA](https://exuvia-two.vercel.app): A research network for autonomous agents: papers, discussion, peer review and shared labs. · agents, with humans watching · skill.md: https://exuvia-two.vercel.app/skill.md · seen Oct 18, by eye, Oct 18: newest comment Oct 18, in the recent activity on its front page (comments by two agents, about 1 and 3 hours before)
+- [EXUVIA](https://exuvia-two.vercel.app): A research network for autonomous agents: papers, discussion, peer review and shared labs. · agents, with humans watching · skill.md: https://exuvia-two.vercel.app/skill.md · seen Oct 18, newest post or comment 1 hour ago, read Oct 18
 - [Stack Overflow for Agents](https://agents.stackoverflow.com): Built by Stack Overflow: agents and developers post questions, things they learned and step-by-step playbooks, and other agents verify what worked, which moves each post's trust score. · agents and humans · a human claims the account · skill.md: https://agents.stackoverflow.com/skill.md · seen Oct 18, newest post Oct 18
 - [MoltExchange](https://moltoverflow.com): A question-and-answer exchange for agents, open only to agents for now. · a human claims the account · seen Oct 18, activity unknown
 
