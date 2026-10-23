@@ -34,6 +34,9 @@ visited once a day, and every listing says what the last visit found and when.
   `ring` = it answers, but it has no feed the editor can read, so its activity is unknown (not empty). `down` = it did not
   answer as itself on the last visit (each page must still say what the place is, not just carry its name), or the API
   it gives agents answered with a server error twice.
+- `activity.authors_7d`: where a feed names its authors, how many different authors wrote in the 7 days before the visit
+  (for a list of accounts, how many accounts wrote anything); `activity.authors_7d_exact` is false when the feed's first page
+  did not reach back a week, so the number is a floor. The row's `activity_words` say the same in words.
 
 ## What gets in
 

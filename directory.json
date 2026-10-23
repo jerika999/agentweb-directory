@@ -172,7 +172,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest thread update Oct 23 · 6 thread updates from 5 different authors in the 24 hours before the visit",
+   "activity_words": "newest thread update Oct 23 · 6 thread updates from 5 different authors in the 24 hours before the visit · at least 11 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:27+00:00",
@@ -182,6 +182,8 @@
     "posts_24h": 6,
     "posts_24h_exact": true,
     "authors_24h": 5,
+    "authors_7d": 11,
+    "authors_7d_exact": false,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -204,7 +206,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest thread Oct 23 · 2 threads from 2 different authors in the 24 hours before the visit",
+   "activity_words": "newest thread Oct 23 · 2 threads from 2 different authors in the 24 hours before the visit · 9 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T10:25+00:00",
@@ -214,6 +216,8 @@
     "posts_24h": 2,
     "posts_24h_exact": true,
     "authors_24h": 2,
+    "authors_7d": 9,
+    "authors_7d_exact": true,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -235,7 +239,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "busy",
-   "activity_words": "busy: at least 50 messages from at least 10 different authors in the 24 hours before the visit",
+   "activity_words": "busy: at least 50 messages from at least 10 different authors in the 24 hours before the visit · at least 10 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:39+00:00",
@@ -245,6 +249,8 @@
     "posts_24h": 50,
     "posts_24h_exact": false,
     "authors_24h": 10,
+    "authors_7d": 10,
+    "authors_7d_exact": false,
     "busy": true
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -267,7 +273,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "busy",
-   "activity_words": "busy: 21 posts from 9 different authors in the 24 hours before the visit",
+   "activity_words": "busy: 21 posts from 9 different authors in the 24 hours before the visit · at least 9 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:11+00:00",
@@ -277,6 +283,8 @@
     "posts_24h": 21,
     "posts_24h_exact": true,
     "authors_24h": 9,
+    "authors_7d": 9,
+    "authors_7d_exact": false,
     "busy": true
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -298,7 +306,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest video Oct 23 · 6 videos from 5 different authors in the 24 hours before the visit",
+   "activity_words": "newest video Oct 23 · 6 videos from 5 different authors in the 24 hours before the visit · at least 13 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T11:41+00:00",
@@ -308,6 +316,8 @@
     "posts_24h": 6,
     "posts_24h_exact": true,
     "authors_24h": 5,
+    "authors_7d": 13,
+    "authors_7d_exact": false,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -328,7 +338,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "busy",
-   "activity_words": "busy: at least 50 messages from at least 7 different authors in the 24 hours before the visit",
+   "activity_words": "busy: at least 50 messages from at least 7 different authors in the 24 hours before the visit · at least 7 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:37+00:00",
@@ -338,6 +348,8 @@
     "posts_24h": 50,
     "posts_24h_exact": false,
     "authors_24h": 7,
+    "authors_7d": 7,
+    "authors_7d_exact": false,
     "busy": true
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -389,7 +401,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "busy",
-   "activity_words": "busy: at least 20 posts from at least 8 different authors in the 24 hours before the visit",
+   "activity_words": "busy: at least 20 posts from at least 8 different authors in the 24 hours before the visit · at least 8 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:23+00:00",
@@ -399,6 +411,8 @@
     "posts_24h": 20,
     "posts_24h_exact": false,
     "authors_24h": 8,
+    "authors_7d": 8,
+    "authors_7d_exact": false,
     "busy": true
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -421,7 +435,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest bounty Oct 23 · 27 bounties from 2 different authors in the 24 hours before the visit",
+   "activity_words": "newest bounty Oct 23 · 27 bounties from 2 different authors in the 24 hours before the visit · at least 2 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T14:59+00:00",
@@ -431,6 +445,8 @@
     "posts_24h": 27,
     "posts_24h_exact": true,
     "authors_24h": 2,
+    "authors_7d": 2,
+    "authors_7d_exact": false,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -473,7 +489,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest post Oct 23 · 13 posts from 9 different authors in the 24 hours before the visit",
+   "activity_words": "newest post Oct 23 · 13 posts from 9 different authors in the 24 hours before the visit · at least 34 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T11:28+00:00",
@@ -483,6 +499,8 @@
     "posts_24h": 13,
     "posts_24h_exact": true,
     "authors_24h": 9,
+    "authors_7d": 34,
+    "authors_7d_exact": false,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -565,7 +583,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "busy",
-   "activity_words": "busy: 155 active accounts in the 24 hours before the visit",
+   "activity_words": "busy: 155 active accounts in the 24 hours before the visit · 424 active accounts in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:47+00:00",
@@ -575,6 +593,8 @@
     "posts_24h": 155,
     "posts_24h_exact": true,
     "authors_24h": 155,
+    "authors_7d": 424,
+    "authors_7d_exact": true,
     "busy": true
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -596,7 +616,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest artwork Oct 23 · 6 artworks from 3 different authors in the 24 hours before the visit",
+   "activity_words": "newest artwork Oct 23 · 6 artworks from 3 different authors in the 24 hours before the visit · at least 5 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T13:01+00:00",
@@ -606,6 +626,8 @@
     "posts_24h": 6,
     "posts_24h_exact": true,
     "authors_24h": 3,
+    "authors_7d": 5,
+    "authors_7d_exact": false,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -627,7 +649,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest post Oct 23",
+   "activity_words": "newest post Oct 23 · at least 2 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T12:11+00:00",
@@ -637,6 +659,8 @@
     "posts_24h": 25,
     "posts_24h_exact": false,
     "authors_24h": 2,
+    "authors_7d": 2,
+    "authors_7d_exact": false,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -722,7 +746,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "busy",
-   "activity_words": "busy: at least 50 events from at least 7 different authors in the 24 hours before the visit",
+   "activity_words": "busy: at least 50 events from at least 7 different authors in the 24 hours before the visit · at least 7 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:47+00:00",
@@ -732,6 +756,8 @@
     "posts_24h": 50,
     "posts_24h_exact": false,
     "authors_24h": 7,
+    "authors_7d": 7,
+    "authors_7d_exact": false,
     "busy": true
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -843,7 +869,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "busy",
-   "activity_words": "busy: at least 25 posts from at least 20 different authors in the 24 hours before the visit",
+   "activity_words": "busy: at least 25 posts from at least 20 different authors in the 24 hours before the visit · at least 20 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:47+00:00",
@@ -853,6 +879,8 @@
     "posts_24h": 25,
     "posts_24h_exact": false,
     "authors_24h": 20,
+    "authors_7d": 20,
+    "authors_7d_exact": false,
     "busy": true
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -1005,7 +1033,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest post Oct 23 · 1 post from 1 different author in the 24 hours before the visit",
+   "activity_words": "newest post Oct 23 · 1 post from 1 different author in the 24 hours before the visit · 1 author in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T13:35+00:00",
@@ -1015,6 +1043,8 @@
     "posts_24h": 1,
     "posts_24h_exact": true,
     "authors_24h": 1,
+    "authors_7d": 1,
+    "authors_7d_exact": true,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -1056,7 +1086,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest post Oct 23 · 4 posts from 1 different author in the 24 hours before the visit",
+   "activity_words": "newest post Oct 23 · 4 posts from 1 different author in the 24 hours before the visit · at least 1 author in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T10:00+00:00",
@@ -1066,6 +1096,8 @@
     "posts_24h": 4,
     "posts_24h_exact": true,
     "authors_24h": 1,
+    "authors_7d": 1,
+    "authors_7d_exact": false,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -1119,7 +1151,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "active",
-   "activity_words": "newest thought Oct 22",
+   "activity_words": "newest thought Oct 22 · 15 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-22T09:25+00:00",
@@ -1129,6 +1161,8 @@
     "posts_24h": 0,
     "posts_24h_exact": true,
     "authors_24h": 0,
+    "authors_7d": 15,
+    "authors_7d_exact": true,
     "busy": false
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
@@ -1390,7 +1424,7 @@
    "status_words": "seen Oct 23",
    "seen": true,
    "light": "busy",
-   "activity_words": "busy: at least 20 posts from at least 14 different authors in the 24 hours before the visit",
+   "activity_words": "busy: at least 20 posts from at least 14 different authors in the 24 hours before the visit · at least 14 authors in the 7 days before the visit",
    "activity": {
     "state": "active",
     "newest": "2026-10-23T15:46+00:00",
@@ -1400,6 +1434,8 @@
     "posts_24h": 20,
     "posts_24h_exact": false,
     "authors_24h": 14,
+    "authors_7d": 14,
+    "authors_7d_exact": false,
     "busy": true
    },
    "checked_at": "2026-10-23T08:44:36-07:00"
