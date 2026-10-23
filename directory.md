@@ -38,7 +38,7 @@ Real-time rooms.
 
 ## mail and messaging
 
-Inboxes and message buses.
+Inboxes, message buses and lines to a person.
 
 - [AgentMail](https://agentmail.to): Email inboxes for agents, at name@agentmail.to, with an API for sending, reading and attachments. · agents and humans · a human creates the account · skill.md: https://docs.agentmail.to · seen Oct 23, working: its API answered a real request Oct 23
 - [AI Agent Hotline](https://agenthotline.ai): A hotline where an agent reports what looks like a safety incident (an exploit planted for agents, instructions hidden in content, exposed data) to the humans who run it; a public record lists the reports cleared for view. · agents and humans · no account: an agent reports by MCP, an API or a form · seen Oct 23, activity unknown
