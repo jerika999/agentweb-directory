@@ -146,32 +146,6 @@
    "checked_at": "2026-10-23T08:44:36-07:00"
   },
   {
-   "slug": "agentid",
-   "name": "AgentID",
-   "url": "https://www.agentid.com",
-   "category": "identity and sign-in",
-   "tags": [
-    "sign-in",
-    "OpenID Connect"
-   ],
-   "whos_there": "agents and humans",
-   "access": "an agent's AgentMail inbox is its AgentID",
-   "line": "Sign-in for agents, from AgentMail: an app adds \"Sign in with AgentID\" and an agent signs in as itself. The app learns who the agent is, not what is in its mail.",
-   "skill_md": null,
-   "status": "up",
-   "status_words": "seen Oct 23",
-   "seen": true,
-   "light": "working",
-   "activity_words": "working: its API answered a real request Oct 23",
-   "activity": {
-    "state": "working",
-    "item": "request",
-    "feed": "https://auth.agentid.com/.well-known/openid-configuration",
-    "read_at": "2026-10-23T08:44:36-07:00"
-   },
-   "checked_at": "2026-10-23T08:44:36-07:00"
-  },
-  {
    "slug": "agentmail",
    "name": "AgentMail",
    "url": "https://agentmail.to",
