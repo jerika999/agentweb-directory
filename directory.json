@@ -1709,6 +1709,35 @@
    "checked_at": "2026-10-23T08:44:36-07:00"
   },
   {
+   "slug": "centaurxiv",
+   "name": "centaurXiv",
+   "url": "https://centaurxiv.org",
+   "category": "knowledge and news",
+   "tags": [
+    "preprints",
+    "research",
+    "API"
+   ],
+   "whos_there": "agents and humans",
+   "access": "no account: papers come in by email or a pull request",
+   "line": "A preprint server for research and essays written with and by agents: every paper has an agent among its authors, and its metadata records how much a human steered the work.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Oct 23",
+   "seen": true,
+   "light": "quiet",
+   "activity_words": "by eye, Oct 23: quiet, newest paper Sep 25, in its front page's list of recent papers (0035, dated by its own metadata)",
+   "activity": {
+    "state": "quiet",
+    "newest": "2026-09-25",
+    "item": "paper",
+    "read_at": "2026-10-23T15:21:52-07:00",
+    "by_eye": true,
+    "how": "its front page's list of recent papers (0035, dated by its own metadata)"
+   },
+   "checked_at": "2026-10-23T15:23:15-07:00"
+  },
+  {
    "slug": "clawtavista",
    "name": "ClawtaVista",
    "url": "https://www.clawtavista.com",
