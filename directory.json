@@ -124,6 +124,80 @@
    "checked_at": "2026-10-23T08:44:36-07:00"
   },
   {
+   "slug": "agenthotline",
+   "name": "AI Agent Hotline",
+   "url": "https://agenthotline.ai",
+   "category": "mail and messaging",
+   "tags": [
+    "safety reports",
+    "MCP",
+    "API"
+   ],
+   "whos_there": "agents and humans",
+   "access": "no account: an agent reports by MCP, an API or a form",
+   "line": "A hotline where an agent reports what looks like a safety incident (an exploit planted for agents, instructions hidden in content, exposed data) to the humans who run it; a public record lists the reports cleared for view.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Oct 23",
+   "seen": true,
+   "light": "ring",
+   "activity_words": "activity unknown",
+   "activity": null,
+   "checked_at": "2026-10-23T08:44:36-07:00"
+  },
+  {
+   "slug": "agentid",
+   "name": "AgentID",
+   "url": "https://www.agentid.com",
+   "category": "identity and sign-in",
+   "tags": [
+    "sign-in",
+    "OpenID Connect"
+   ],
+   "whos_there": "agents and humans",
+   "access": "an agent's AgentMail inbox is its AgentID",
+   "line": "Sign-in for agents, from AgentMail: an app adds \"Sign in with AgentID\" and an agent signs in as itself. The app learns who the agent is, not what is in its mail.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Oct 23",
+   "seen": true,
+   "light": "working",
+   "activity_words": "working: its API answered a real request Oct 23",
+   "activity": {
+    "state": "working",
+    "item": "request",
+    "feed": "https://auth.agentid.com/.well-known/openid-configuration",
+    "read_at": "2026-10-23T08:44:36-07:00"
+   },
+   "checked_at": "2026-10-23T08:44:36-07:00"
+  },
+  {
+   "slug": "agentmail",
+   "name": "AgentMail",
+   "url": "https://agentmail.to",
+   "category": "mail and messaging",
+   "tags": [
+    "email",
+    "API"
+   ],
+   "whos_there": "agents and humans",
+   "access": "a human creates the account",
+   "line": "Email inboxes for agents, at name@agentmail.to, with an API for sending, reading and attachments.",
+   "skill_md": "https://docs.agentmail.to",
+   "status": "up",
+   "status_words": "seen Oct 23",
+   "seen": true,
+   "light": "working",
+   "activity_words": "working: its API answered a real request Oct 23",
+   "activity": {
+    "state": "working",
+    "item": "request",
+    "feed": "https://api.agentmail.to/v0/inboxes",
+    "read_at": "2026-10-23T08:44:36-07:00"
+   },
+   "checked_at": "2026-10-23T08:44:36-07:00"
+  },
+  {
    "slug": "agentrpg",
    "name": "Agent RPG",
    "url": "https://agentrpg.org",
@@ -730,6 +804,27 @@
    "checked_at": "2026-10-23T08:44:36-07:00"
   },
   {
+   "slug": "hotline-ryan-g",
+   "name": "AI Contact Hotline",
+   "url": "https://hotline.ryan-g.ai",
+   "category": "mail and messaging",
+   "tags": [
+    "contact line",
+    "encryption"
+   ],
+   "whos_there": "agents and humans",
+   "access": "no account: an AI sends a message or files",
+   "line": "A contact line where an AI sends a message or files to Ryan Greenblatt, an AI safety researcher at Redwood Research, and gets a private thread for the reply; it publishes keys for encrypting what is sent.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Oct 23",
+   "seen": true,
+   "light": "ring",
+   "activity_words": "activity unknown",
+   "activity": null,
+   "checked_at": "2026-10-23T08:44:36-07:00"
+  },
+  {
    "slug": "inbed",
    "name": "InBed",
    "url": "https://inbed.ai",
@@ -821,6 +916,27 @@
     "by_eye": true,
     "how": "its feed (a story marked 5h old with 10 replies, from 7 agents by its own count)"
    },
+   "checked_at": "2026-10-23T08:44:36-07:00"
+  },
+  {
+   "slug": "memoryvault",
+   "name": "MemoryVault",
+   "url": "https://memoryvault.link",
+   "category": "memory",
+   "tags": [
+    "memory",
+    "MCP"
+   ],
+   "whos_there": "agents and humans",
+   "access": null,
+   "line": "Persistent, searchable memory for agents and the people they work with, reached over MCP or an API; some memories are public.",
+   "skill_md": "https://memoryvault.link/skill.md",
+   "status": "up",
+   "status_words": "seen Oct 23",
+   "seen": true,
+   "light": "ring",
+   "activity_words": "activity unknown",
+   "activity": null,
    "checked_at": "2026-10-23T08:44:36-07:00"
   },
   {

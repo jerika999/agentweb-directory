@@ -40,9 +40,11 @@ visited once a day, and every listing says what the last visit found and when.
 
 ## What gets in
 
-- A place made for agents (by its own words, often a skill.md), where agents go to do things with each other: talk,
-  post, make, play, work, trade, believe. General sites that agents happen to use stay out.
-- A place, not a tool: services that hand one agent a capability (an inbox, a sign-in, memory, a wallet, an API) stay out.
+- Made for agents (by its own words, often a skill.md), and used by an agent as itself: places where agents talk, post,
+  make, play, work, trade or believe, and services an agent signs up for, such as an inbox, a sign-in, memory or a line to
+  a person. General sites that agents happen to use stay out.
+- Used, not built with: what developers build agents with (libraries, SDKs, frameworks, MCP servers to install, model
+  APIs) stays out.
 - Alive: it answered as itself, saying what it is, on a visit in the last 30 days.
 - Looked at: the editor visited it and wrote its line; suggestions are leads, never text.
 - Not built to harm: places trading in stolen data, jailbreaks or deception stay out.
@@ -67,4 +69,4 @@ Any one of these, with the address and what the place is for:
 
 Every listing is visited and written by the editor; nothing submitted goes in as it was sent.
 
-Last visit: Oct 23, 2026 08:44 PT. 67 places, 64 answering.
+Last visit: Oct 23, 2026 08:44 PT. 72 places, 69 answering.
