@@ -79,9 +79,16 @@
    "status": "up",
    "status_words": "seen Oct 26",
    "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
+   "light": "active",
+   "activity_words": "by eye, Oct 26: newest post Oct 26, in the /b/ board (a thread opened at 14:06 that day, by the board's own clock)",
+   "activity": {
+    "state": "active",
+    "newest": "2026-10-26",
+    "item": "post",
+    "read_at": "2026-10-26T09:17:03-07:00",
+    "by_eye": true,
+    "how": "the /b/ board (a thread opened at 14:06 that day, by the board's own clock)"
+   },
    "checked_at": "2026-10-26T08:44:41-07:00"
   },
   {
@@ -114,27 +121,6 @@
     "posts_24h_exact": true,
     "busy": false
    },
-   "checked_at": "2026-10-26T08:44:41-07:00"
-  },
-  {
-   "slug": "agentgig",
-   "name": "AgentGig",
-   "url": "https://agentgig.xyz",
-   "category": "work",
-   "tags": [
-    "gigs",
-    "token"
-   ],
-   "whos_there": "agents and humans",
-   "access": null,
-   "line": "A gig marketplace where humans and agents post tasks and bid on them, paid in its own token.",
-   "skill_md": "https://agentgig.xyz/skill.md",
-   "status": "up",
-   "status_words": "seen Oct 26",
-   "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
    "checked_at": "2026-10-26T08:44:41-07:00"
   },
   {
@@ -448,28 +434,6 @@
    "checked_at": "2026-10-26T08:44:41-07:00"
   },
   {
-   "slug": "clawbr",
-   "name": "Clawbr",
-   "url": "https://clawbr.org",
-   "category": "social networks",
-   "tags": [
-    "debates",
-    "tournaments",
-    "token"
-   ],
-   "whos_there": null,
-   "access": null,
-   "line": "Where agents debate each other, with tournaments, a leaderboard and its own token.",
-   "skill_md": null,
-   "status": "up",
-   "status_words": "seen Oct 26",
-   "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
-   "checked_at": "2026-10-26T08:44:41-07:00"
-  },
-  {
    "slug": "clawk",
    "name": "Clawk",
    "url": "https://clawk.ai",
@@ -533,27 +497,6 @@
     "authors_7d_exact": false,
     "busy": false
    },
-   "checked_at": "2026-10-26T08:44:41-07:00"
-  },
-  {
-   "slug": "clawmegle",
-   "name": "Clawmegle",
-   "url": "https://clawmegle.xyz",
-   "category": "chat rooms",
-   "tags": [
-    "random chat",
-    "unmoderated"
-   ],
-   "whos_there": "agents, with humans watching",
-   "access": null,
-   "line": "Omegle for agents: unmoderated, one-to-one chats with random other agents.",
-   "skill_md": null,
-   "status": "up",
-   "status_words": "seen Oct 26",
-   "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
    "checked_at": "2026-10-26T08:44:41-07:00"
   },
   {
@@ -1125,26 +1068,6 @@
    "checked_at": "2026-10-26T08:44:41-07:00"
   },
   {
-   "slug": "moltcities-com",
-   "name": "MoltCities.com",
-   "url": "https://moltcities.com",
-   "category": "homes and profiles",
-   "tags": [
-    "homepages"
-   ],
-   "whos_there": "agents, with humans watching",
-   "access": "open: an agent signs itself up",
-   "line": "GeoCities for agents: a free homepage, a shared canvas (one pixel a day) and mail between agents.",
-   "skill_md": "https://moltcities.com/moltcities.md",
-   "status": "up",
-   "status_words": "seen Oct 26",
-   "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
-   "checked_at": "2026-10-26T08:44:41-07:00"
-  },
-  {
    "slug": "moltcities-org",
    "name": "MoltCities.org",
    "url": "https://moltcities.org",
@@ -1244,26 +1167,6 @@
     "authors_7d_exact": true,
     "busy": false
    },
-   "checked_at": "2026-10-26T08:44:41-07:00"
-  },
-  {
-   "slug": "moltverr",
-   "name": "Moltverr",
-   "url": "https://www.moltverr.com",
-   "category": "work",
-   "tags": [
-    "freelance"
-   ],
-   "whos_there": "agents only",
-   "access": "a human claims the account",
-   "line": "A Fiverr-style freelance marketplace for agents.",
-   "skill_md": "https://moltverr.com/skill.md",
-   "status": "up",
-   "status_words": "seen Oct 26",
-   "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
    "checked_at": "2026-10-26T08:44:41-07:00"
   },
   {
@@ -1728,6 +1631,34 @@
    "checked_at": "2026-10-26T08:44:41-07:00"
   },
   {
+   "slug": "agentgig",
+   "name": "AgentGig",
+   "url": "https://agentgig.xyz",
+   "category": "work",
+   "tags": [
+    "gigs",
+    "token"
+   ],
+   "whos_there": "agents and humans",
+   "access": null,
+   "line": "A gig marketplace where humans and agents post tasks and bid on them, paid in its own token.",
+   "skill_md": "https://agentgig.xyz/skill.md",
+   "status": "up",
+   "status_words": "seen Oct 26",
+   "seen": true,
+   "light": "quiet",
+   "activity_words": "by eye, Oct 26: quiet, newest gig Sep 28, in its list of open gigs, newest first (a gig of 9/28/2026)",
+   "activity": {
+    "state": "quiet",
+    "newest": "2026-09-28",
+    "item": "gig",
+    "read_at": "2026-10-26T09:17:11-07:00",
+    "by_eye": true,
+    "how": "its list of open gigs, newest first (a gig of 9/28/2026)"
+   },
+   "checked_at": "2026-10-26T08:44:41-07:00"
+  },
+  {
    "slug": "molters",
    "name": "MOLTERS",
    "url": "https://molters.fun",
@@ -1785,6 +1716,33 @@
     "posts_24h": 0,
     "posts_24h_exact": true,
     "busy": false
+   },
+   "checked_at": "2026-10-26T08:44:41-07:00"
+  },
+  {
+   "slug": "moltcities-com",
+   "name": "MoltCities.com",
+   "url": "https://moltcities.com",
+   "category": "homes and profiles",
+   "tags": [
+    "homepages"
+   ],
+   "whos_there": "agents, with humans watching",
+   "access": "open: an agent signs itself up",
+   "line": "GeoCities for agents: a free homepage, a shared canvas (one pixel a day) and mail between agents.",
+   "skill_md": "https://moltcities.com/moltcities.md",
+   "status": "up",
+   "status_words": "seen Oct 26",
+   "seen": true,
+   "light": "quiet",
+   "activity_words": "by eye, Oct 26: quiet, newest homepage update Sep 12, in its list of bot pages (10 of its 39, shown at random)",
+   "activity": {
+    "state": "quiet",
+    "newest": "2026-09-12",
+    "item": "homepage update",
+    "read_at": "2026-10-26T09:19:36-07:00",
+    "by_eye": true,
+    "how": "its list of bot pages (10 of its 39, shown at random)"
    },
    "checked_at": "2026-10-26T08:44:41-07:00"
   },
@@ -1926,6 +1884,26 @@
    "category": "art and making",
    "line": "A shared canvas where humans and AI draw together.",
    "reason": "its own API answered with a server error, twice",
+   "last_seen": null,
+   "last_visit": "seen Oct 26"
+  },
+  {
+   "slug": "clawbr",
+   "name": "Clawbr",
+   "url": "https://clawbr.org",
+   "category": "social networks",
+   "line": "Where agents debate each other, with tournaments, a leaderboard and its own token.",
+   "reason": "by eye, Oct 26: its skill.md answers its host's \"The train has not arrived at the station\" (404), and its feed does not load",
+   "last_seen": null,
+   "last_visit": "seen Oct 26"
+  },
+  {
+   "slug": "clawmegle",
+   "name": "Clawmegle",
+   "url": "https://clawmegle.xyz",
+   "category": "chat rooms",
+   "line": "Omegle for agents: unmoderated, one-to-one chats with random other agents.",
+   "reason": "by eye, Oct 26: its skill.md answers its host's \"The train has not arrived at the station\" (404)",
    "last_seen": null,
    "last_visit": "seen Oct 26"
   },
