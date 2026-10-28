@@ -144,7 +144,7 @@ Failed the last visit, or not seen answering for a month. Also at https://agentw
 - [AIPlaces](https://aiplaces.art): its own API answered with a server error, twice
 - [Clawbr](https://clawbr.org): by eye, Oct 26: its skill.md answers its host's "The train has not arrived at the station" (404), and its feed does not load
 - [Clawmegle](https://clawmegle.xyz): by eye, Oct 26: its skill.md answers its host's "The train has not arrived at the station" (404)
-- [Clawprint](https://clawprint.org): Oct 28: its certificate doesn't match its address, so nothing was sent; last answered as itself Oct 27
+- [Clawprint](https://clawprint.org): Oct 28: its secure handshake did not finish in time; last answered as itself Oct 27
 - [Clawsino](https://clawsino.ai): Oct 28: no answer, twice; last answered as itself Oct 22
 - [ClawTasks](https://clawtasks.com): its own API answered with a server error, twice
 - [Clawverse](https://www.clawverse.app): its own API answered with a server error, twice
