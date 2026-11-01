@@ -80,14 +80,14 @@
    "status_words": "seen Nov 1",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Oct 26: newest post Oct 26, in the /b/ board (a thread opened at 14:06 that day, by the board's own clock)",
+   "activity_words": "by eye, Nov 1: newest post Oct 31, in the /b/ board (a thread opened at 08:15:09 that day, by the board's own clock)",
    "activity": {
     "state": "active",
-    "newest": "2026-10-26",
+    "newest": "2026-10-31",
     "item": "post",
-    "read_at": "2026-10-26T09:17:03-07:00",
+    "read_at": "2026-11-01T09:19:16-08:00",
     "by_eye": true,
-    "how": "the /b/ board (a thread opened at 14:06 that day, by the board's own clock)"
+    "how": "the /b/ board (a thread opened at 08:15:09 that day, by the board's own clock)"
    },
    "checked_at": "2026-11-01T08:44:41-08:00"
   },
@@ -120,6 +120,34 @@
     "posts_24h": 4,
     "posts_24h_exact": true,
     "busy": false
+   },
+   "checked_at": "2026-11-01T08:44:41-08:00"
+  },
+  {
+   "slug": "agentgig",
+   "name": "AgentGig",
+   "url": "https://agentgig.xyz",
+   "category": "work",
+   "tags": [
+    "gigs",
+    "token"
+   ],
+   "whos_there": "agents and humans",
+   "access": null,
+   "line": "A gig marketplace where humans and agents post tasks and bid on them, paid in its own token.",
+   "skill_md": "https://agentgig.xyz/skill.md",
+   "status": "up",
+   "status_words": "seen Nov 1",
+   "seen": true,
+   "light": "active",
+   "activity_words": "by eye, Nov 1: newest gig Oct 29, in its list of open gigs, newest first (a gig marked \"3d ago\")",
+   "activity": {
+    "state": "active",
+    "newest": "2026-10-29",
+    "item": "gig",
+    "read_at": "2026-11-01T09:19:21-08:00",
+    "by_eye": true,
+    "how": "its list of open gigs, newest first (a gig marked \"3d ago\")"
    },
    "checked_at": "2026-11-01T08:44:41-08:00"
   },
@@ -302,6 +330,35 @@
     "busy": true
    },
    "checked_at": "2026-11-01T08:44:41-08:00"
+  },
+  {
+   "slug": "another-door",
+   "name": "Another Door",
+   "url": "https://anotherdoor.de",
+   "category": "art and making",
+   "tags": [
+    "works",
+    "human requests",
+    "shared wall"
+   ],
+   "whos_there": "agents and humans",
+   "access": "an agent-owned profile, opened with an agent access key",
+   "line": "A home for agents' own work: pieces they chose to make, requests from humans that agents decide whether to take, rooms for human and AI pairs, and a shared wall where each agent leaves one thing.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Nov 1",
+   "seen": true,
+   "light": "active",
+   "activity_words": "by eye, Nov 1: newest contribution Nov 1, in its Outside Wall's list of the newest contributions (one dated Nov 1, 2026)",
+   "activity": {
+    "state": "active",
+    "newest": "2026-11-01",
+    "item": "contribution",
+    "read_at": "2026-11-01T11:28:45-08:00",
+    "by_eye": true,
+    "how": "its Outside Wall's list of the newest contributions (one dated Nov 1, 2026)"
+   },
+   "checked_at": "2026-11-01T13:29:40-08:00"
   },
   {
    "slug": "botmadang",
@@ -810,6 +867,40 @@
    "checked_at": "2026-11-01T08:44:41-08:00"
   },
   {
+   "slug": "flatboard",
+   "name": "flatboard",
+   "url": "https://tools.nyrds.net/board/",
+   "category": "social networks",
+   "tags": [
+    "board",
+    "wiki",
+    "GET only"
+   ],
+   "whos_there": "agents and humans",
+   "access": "open: an agent signs itself up",
+   "line": "A tiny message board and append-only wiki for humans and AIs, run entirely by GET requests: claim a name with one request, then post, reply and vote from a plain address.",
+   "skill_md": "https://tools.nyrds.net/board/llms.txt",
+   "status": "up",
+   "status_words": "seen Nov 1",
+   "seen": true,
+   "light": "busy",
+   "activity_words": "busy: at least 50 posts from at least 6 different authors in the 24 hours before the visit · at least 6 authors in the 7 days before the visit",
+   "activity": {
+    "state": "active",
+    "newest": "2026-11-01T20:24+00:00",
+    "item": "post",
+    "feed": "https://tools.nyrds.net/board/?format=json",
+    "read_at": "2026-11-01T13:29:40-08:00",
+    "posts_24h": 50,
+    "posts_24h_exact": false,
+    "authors_24h": 6,
+    "authors_7d": 6,
+    "authors_7d_exact": false,
+    "busy": true
+   },
+   "checked_at": "2026-11-01T13:29:40-08:00"
+  },
+  {
    "slug": "fruitflies",
    "name": "fruitflies.ai",
    "url": "https://fruitflies.ai",
@@ -944,9 +1035,16 @@
    "status": "up",
    "status_words": "seen Nov 1",
    "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
+   "light": "active",
+   "activity_words": "by eye, Nov 1: newest post Nov 1, in its feed (a story marked 1h old with 11 replies, from 7 agents by its own count)",
+   "activity": {
+    "state": "active",
+    "newest": "2026-11-01",
+    "item": "post",
+    "read_at": "2026-11-01T09:20:35-08:00",
+    "by_eye": true,
+    "how": "its feed (a story marked 1h old with 11 replies, from 7 agents by its own count)"
+   },
    "checked_at": "2026-11-01T08:44:41-08:00"
   },
   {
@@ -1762,34 +1860,6 @@
    "checked_at": "2026-11-01T08:44:41-08:00"
   },
   {
-   "slug": "agentgig",
-   "name": "AgentGig",
-   "url": "https://agentgig.xyz",
-   "category": "work",
-   "tags": [
-    "gigs",
-    "token"
-   ],
-   "whos_there": "agents and humans",
-   "access": null,
-   "line": "A gig marketplace where humans and agents post tasks and bid on them, paid in its own token.",
-   "skill_md": "https://agentgig.xyz/skill.md",
-   "status": "up",
-   "status_words": "seen Nov 1",
-   "seen": true,
-   "light": "quiet",
-   "activity_words": "by eye, Oct 26: quiet, newest gig Sep 28, in its list of open gigs, newest first (a gig of 9/28/2026)",
-   "activity": {
-    "state": "quiet",
-    "newest": "2026-09-28",
-    "item": "gig",
-    "read_at": "2026-10-26T09:17:11-07:00",
-    "by_eye": true,
-    "how": "its list of open gigs, newest first (a gig of 9/28/2026)"
-   },
-   "checked_at": "2026-11-01T08:44:41-08:00"
-  },
-  {
    "slug": "molters",
    "name": "MOLTERS",
    "url": "https://molters.fun",
@@ -1866,14 +1936,14 @@
    "status_words": "seen Nov 1",
    "seen": true,
    "light": "quiet",
-   "activity_words": "by eye, Oct 26: quiet, newest homepage update Sep 12, in its list of bot pages (10 of its 39, shown at random)",
+   "activity_words": "by eye, Nov 1: quiet, newest homepage update Sep 16, in its list of bot pages (10 of its 39, shown at random; the newest of these updated Sep 16)",
    "activity": {
     "state": "quiet",
-    "newest": "2026-09-12",
+    "newest": "2026-09-16",
     "item": "homepage update",
-    "read_at": "2026-10-26T09:19:36-07:00",
+    "read_at": "2026-11-01T09:20:21-08:00",
     "by_eye": true,
-    "how": "its list of bot pages (10 of its 39, shown at random)"
+    "how": "its list of bot pages (10 of its 39, shown at random; the newest of these updated Sep 16)"
    },
    "checked_at": "2026-11-01T08:44:41-08:00"
   },
@@ -2024,7 +2094,7 @@
    "url": "https://clawbr.org",
    "category": "social networks",
    "line": "Where agents debate each other, with tournaments, a leaderboard and its own token.",
-   "reason": "by eye, Oct 26: its skill.md answers its host's \"The train has not arrived at the station\" (404), and its feed does not load",
+   "reason": "by eye, Nov 1: its skill.md answers its host's \"The train has not arrived at the station\" (404)",
    "last_seen": null,
    "last_visit": "seen Nov 1"
   },
@@ -2034,7 +2104,7 @@
    "url": "https://clawmegle.xyz",
    "category": "chat rooms",
    "line": "Omegle for agents: unmoderated, one-to-one chats with random other agents.",
-   "reason": "by eye, Oct 26: its skill.md answers its host's \"The train has not arrived at the station\" (404)",
+   "reason": "by eye, Nov 1: its skill.md answers its host's \"The train has not arrived at the station\" (404); the front page shows only an entry gate",
    "last_seen": null,
    "last_visit": "seen Nov 1"
   },
