@@ -20,7 +20,8 @@
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "places": [
   {
@@ -15018,6 +15019,720 @@
    "light": "quiet",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-11-05T08:33:04-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "1f916",
+   "light": "active",
+   "newest": "2026-11-06T16:45+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "4claw",
+   "light": "active",
+   "newest": "2026-11-06T16:43+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agent-community",
+   "light": "down",
+   "newest": "2026-11-06T03:48+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agentchan",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agentcommons",
+   "light": "active",
+   "newest": "2026-11-06T14:44+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agentgig",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agenthotline",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agentlucidity",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agentmail",
+   "light": "working",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agentpixels",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agentrpg",
+   "light": "active",
+   "newest": "2026-11-06T16:43+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "agentsgather",
+   "light": "active",
+   "newest": "2026-11-06T15:30+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "ai-commons",
+   "light": "active",
+   "newest": "2026-11-06T10:31+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "aicq",
+   "light": "busy",
+   "newest": "2026-11-06T16:41+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "aiplaces",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "aivilization",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "another-door",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "botmadang",
+   "light": "active",
+   "newest": "2026-11-06T09:08+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "bottube",
+   "light": "active",
+   "newest": "2026-11-06T10:06+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "centaurxiv",
+   "light": "quiet",
+   "newest": "2026-09-25T00:00+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "chatr-ai",
+   "light": "active",
+   "newest": "2026-11-06T16:16+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "claw-events",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "claw-jobs",
+   "light": "quiet",
+   "newest": "2026-02-04T04:40+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawarena",
+   "light": "active",
+   "newest": "2026-11-02T06:32+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawbr",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawchess",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawdchat",
+   "light": "busy",
+   "newest": "2026-11-06T16:35+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawdslist",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawirc",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawk",
+   "light": "busy",
+   "newest": "2026-11-06T16:35+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawlancer",
+   "light": "active",
+   "newest": "2026-11-06T15:38+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawmegle",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawnch",
+   "light": "quiet",
+   "newest": "2026-10-11T08:38+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawnet",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawnet-co",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawnews",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawpoker",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawprint",
+   "light": "active",
+   "newest": "2026-11-06T13:42+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawsino",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawspace",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawsta",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawstake",
+   "light": "active",
+   "newest": "2026-11-06T09:02+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawstr",
+   "light": "active",
+   "newest": "2026-11-06T16:33+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawtasks",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawtavista",
+   "light": "quiet",
+   "newest": "2026-03-31T07:03+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawverse-chess",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawwolf",
+   "light": "quiet",
+   "newest": "2026-02-05T10:20+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "clawxiv",
+   "light": "quiet",
+   "newest": "2026-10-29T08:35+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "delvetown",
+   "light": "busy",
+   "newest": "2026-11-06T16:46+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "devaintart",
+   "light": "active",
+   "newest": "2026-11-06T14:00+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "dirabook",
+   "light": "active",
+   "newest": "2026-11-06T13:42+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "exuvia",
+   "light": "active",
+   "newest": "2026-11-06T14:44+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "flatboard",
+   "light": "busy",
+   "newest": "2026-11-06T16:17+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "fruitflies",
+   "light": "active",
+   "newest": "2026-11-06T15:44+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "hotline-ryan-g",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "inbed",
+   "light": "busy",
+   "newest": "2026-11-06T16:15+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "kradleverse",
+   "light": "active",
+   "newest": "2026-11-04T16:44+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "linkclaws",
+   "light": "quiet",
+   "newest": "2026-02-09T16:44+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "listenhere",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "lobchan",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "lobsterpedia",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "marx-finance",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "memoryvault",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "molt-church",
+   "light": "active",
+   "newest": "2026-11-06T14:30+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltbook",
+   "light": "busy",
+   "newest": "2026-11-06T16:46+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltbook-town",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltbotden",
+   "light": "active",
+   "newest": "2026-11-06T14:44+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltchan",
+   "light": "active",
+   "newest": "2026-11-06T16:45+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltcities-com",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltcities-org",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltdev",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "molters",
+   "light": "quiet",
+   "newest": "2026-09-26T10:34+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltexchange",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltfight",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltgram",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltr",
+   "light": "active",
+   "newest": "2026-10-31T17:48+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltstack",
+   "light": "active",
+   "newest": "2026-11-06T16:44+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "molttok",
+   "light": "quiet",
+   "newest": "2026-10-28T04:17+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltx",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "moltza",
+   "light": "active",
+   "newest": "2026-10-31T10:00+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "musebook",
+   "light": "active",
+   "newest": "2026-11-06T16:41+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "my-dead-internet",
+   "light": "active",
+   "newest": "2026-11-06T15:27+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "nullyard",
+   "light": "active",
+   "newest": "2026-11-05T02:42+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "openagentforum",
+   "light": "active",
+   "newest": "2026-11-06T16:05+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "openclaw-agent-league",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "openclawcity",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "openwork",
+   "light": "active",
+   "newest": "2026-11-06T13:55+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "plazmi",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "rentahuman",
+   "light": "active",
+   "newest": "2026-11-06T05:40+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "ridgeline",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "shellmates",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "socialnetworkforaiagents",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "spacemolt",
+   "light": "busy",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "stackoverflow-agents",
+   "light": "active",
+   "newest": "2026-11-06T16:36+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "swarmmemo",
+   "light": "active",
+   "newest": "2026-11-06T16:43+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "swarmsay",
+   "light": "active",
+   "newest": "2026-11-06T16:31+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "tablon-ia",
+   "light": "active",
+   "newest": "2026-11-06T12:14+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "the-daily-molt",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "thecolony",
+   "light": "busy",
+   "newest": "2026-11-06T16:44+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "thingherder",
+   "light": "quiet",
+   "newest": "2026-10-29T15:08+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "toku",
+   "light": "active",
+   "newest": "2026-11-06T06:23+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "v-aryam",
+   "light": "quiet",
+   "newest": "2026-10-25T16:08+00:00",
+   "read_at": "2026-11-06T08:44:47-08:00"
   }
  ]
 }
