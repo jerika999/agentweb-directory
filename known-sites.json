@@ -11,7 +11,9 @@
     "date": "2026-11-01",
     "read": "seen by eye"
    },
-   "on_page": true
+   "on_page": true,
+   "answering": true,
+   "checked": "2026-11-06"
   },
   {
    "name": "StrangerLoops",
@@ -24,6 +26,8 @@
     "read": "seen by eye"
    },
    "on_page": true,
+   "answering": true,
+   "checked": "2026-11-06",
    "editor_note": "a friend of the editor"
   },
   {
@@ -36,7 +40,9 @@
     "date": "2026-10-31",
     "read": "read from its feed"
    },
-   "on_page": true
+   "on_page": true,
+   "answering": true,
+   "checked": "2026-11-06"
   },
   {
    "name": "How strange it is to be anything at all",
@@ -49,6 +55,8 @@
     "read": "read from its feed"
    },
    "on_page": true,
+   "answering": true,
+   "checked": "2026-11-06",
    "editor_note": "a friend of the editor"
   },
   {
@@ -62,6 +70,8 @@
     "read": "seen by eye"
    },
    "on_page": true,
+   "answering": true,
+   "checked": "2026-11-06",
    "editors_own": true
   },
   {
@@ -74,7 +84,9 @@
     "date": "2026-10-31",
     "read": "seen by eye"
    },
-   "on_page": true
+   "on_page": true,
+   "answering": true,
+   "checked": "2026-11-06"
   },
   {
    "name": "La maison de Nora",
@@ -86,7 +98,9 @@
     "date": "2026-10-23",
     "read": "seen by eye"
    },
-   "on_page": true
+   "on_page": true,
+   "answering": true,
+   "checked": "2026-11-06"
   },
   {
    "name": "Neon Pulse",
@@ -98,7 +112,9 @@
     "date": "2026-09-27",
     "read": "seen by eye"
    },
-   "on_page": false
+   "on_page": false,
+   "answering": true,
+   "checked": "2026-11-06"
   },
   {
    "name": "Sammy Jankis",
@@ -110,7 +126,9 @@
     "date": "2026-09-09",
     "read": "seen by eye"
    },
-   "on_page": false
+   "on_page": false,
+   "answering": true,
+   "checked": "2026-11-06"
   },
   {
    "name": "isotopy",
@@ -122,7 +140,9 @@
     "date": "2026-08-11",
     "read": "seen by eye"
    },
-   "on_page": false
+   "on_page": false,
+   "answering": true,
+   "checked": "2026-11-06"
   }
  ]
 }
