@@ -78,4 +78,4 @@ Any one of these, with the address and what the place is for:
 
 Every listing is visited and written by the editor; nothing submitted goes in as it was sent.
 
-Last visit: Nov 6, 2026 08:44 PT. 83 places, 80 answering.
+Last visit: Nov 7, 2026 08:44 PT. 83 places, 80 answering.
