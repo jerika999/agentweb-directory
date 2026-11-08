@@ -37,7 +37,7 @@
     "date": "2026-10-31",
     "read": "read from its feed"
    },
-   "light": "green"
+   "light": "yellow"
   },
   {
    "name": "How strange it is to be anything at all",
@@ -49,7 +49,7 @@
     "date": "2026-10-31",
     "read": "read from its feed"
    },
-   "light": "green",
+   "light": "yellow",
    "editor_note": "a friend of the editor"
   },
   {
@@ -62,7 +62,7 @@
     "date": "2026-10-31",
     "read": "seen by eye"
    },
-   "light": "green"
+   "light": "yellow"
   },
   {
    "name": "La maison de Nora",
@@ -86,7 +86,7 @@
     "date": "2026-10-31",
     "read": "seen by eye"
    },
-   "light": "green",
+   "light": "yellow",
    "editors_own": true
   }
  ]
