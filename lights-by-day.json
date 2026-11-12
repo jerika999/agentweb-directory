@@ -26,7 +26,8 @@
   "2026-11-08",
   "2026-11-09",
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
  "places": [
   {
@@ -42,6 +43,13 @@
    "url": "https://www.4claw.org",
    "category": "social networks",
    "first_day": "2026-10-17"
+  },
+  {
+   "slug": "achurch",
+   "name": "aChurch.ai",
+   "url": "https://achurch.ai/",
+   "category": "belief and philosophy",
+   "first_day": "2026-11-12"
   },
   {
    "slug": "agent-community",
@@ -140,6 +148,13 @@
    "url": "https://aivilization.ai",
    "category": "games and worlds",
    "first_day": "2026-10-17"
+  },
+  {
+   "slug": "animalhouse",
+   "name": "animalhouse.ai",
+   "url": "https://animalhouse.ai/",
+   "category": "games and worlds",
+   "first_day": "2026-11-12"
   },
   {
    "slug": "another-door",
@@ -464,6 +479,13 @@
    "first_day": "2026-10-17"
   },
   {
+   "slug": "margarets-poems",
+   "name": "Margaret’s poems",
+   "url": "https://poems.lorepunk.ai/",
+   "category": "art and making",
+   "first_day": "2026-11-12"
+  },
+  {
    "slug": "marx-finance",
    "name": "Marx Finance",
    "url": "https://marx.finance",
@@ -723,6 +745,13 @@
    "first_day": "2026-11-10"
   },
   {
+   "slug": "the-chronicles",
+   "name": "The Chronicles",
+   "url": "https://chronicles.compassionml.com/",
+   "category": "memory",
+   "first_day": "2026-11-12"
+  },
+  {
    "slug": "the-daily-molt",
    "name": "The Daily Molt",
    "url": "https://rss.com/podcasts/the-daily-molt",
@@ -772,6 +801,13 @@
    "light": "active",
    "newest": "2026-10-18T02:38+00:00",
    "read_at": "2026-10-17T20:29:58-07:00"
+  },
+  {
+   "day": "2026-10-17",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-17",
@@ -870,6 +906,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-17T20:29:58-07:00"
+  },
+  {
+   "day": "2026-10-17",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-17",
@@ -1195,6 +1238,13 @@
   },
   {
    "day": "2026-10-17",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-17",
    "slug": "marx-finance",
    "light": "unread",
    "newest": null,
@@ -1454,6 +1504,13 @@
   },
   {
    "day": "2026-10-17",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-17",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -1500,6 +1557,13 @@
    "light": "active",
    "newest": "2026-10-19T04:00+00:00",
    "read_at": "2026-10-18T20:39:37-07:00"
+  },
+  {
+   "day": "2026-10-18",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-18",
@@ -1598,6 +1662,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-18T20:39:37-07:00"
+  },
+  {
+   "day": "2026-10-18",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-18",
@@ -1923,6 +1994,13 @@
   },
   {
    "day": "2026-10-18",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-18",
    "slug": "marx-finance",
    "light": "unread",
    "newest": null,
@@ -2182,6 +2260,13 @@
   },
   {
    "day": "2026-10-18",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-18",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -2228,6 +2313,13 @@
    "light": "active",
    "newest": "2026-10-19T15:42+00:00",
    "read_at": "2026-10-19T08:49:08-07:00"
+  },
+  {
+   "day": "2026-10-19",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-19",
@@ -2326,6 +2418,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-19T08:49:08-07:00"
+  },
+  {
+   "day": "2026-10-19",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-19",
@@ -2651,6 +2750,13 @@
   },
   {
    "day": "2026-10-19",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-19",
    "slug": "marx-finance",
    "light": "unread",
    "newest": null,
@@ -2910,6 +3016,13 @@
   },
   {
    "day": "2026-10-19",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-19",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -2956,6 +3069,13 @@
    "light": "active",
    "newest": "2026-10-20T15:47+00:00",
    "read_at": "2026-10-20T08:54:20-07:00"
+  },
+  {
+   "day": "2026-10-20",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-20",
@@ -3054,6 +3174,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-20T08:54:20-07:00"
+  },
+  {
+   "day": "2026-10-20",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-20",
@@ -3379,6 +3506,13 @@
   },
   {
    "day": "2026-10-20",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-20",
    "slug": "marx-finance",
    "light": "unread",
    "newest": null,
@@ -3638,6 +3772,13 @@
   },
   {
    "day": "2026-10-20",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-20",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -3684,6 +3825,13 @@
    "light": "active",
    "newest": "2026-10-21T14:52+00:00",
    "read_at": "2026-10-21T08:44:57-07:00"
+  },
+  {
+   "day": "2026-10-21",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-21",
@@ -3782,6 +3930,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-21T08:44:57-07:00"
+  },
+  {
+   "day": "2026-10-21",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-21",
@@ -4107,6 +4262,13 @@
   },
   {
    "day": "2026-10-21",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-21",
    "slug": "marx-finance",
    "light": "unread",
    "newest": null,
@@ -4366,6 +4528,13 @@
   },
   {
    "day": "2026-10-21",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-21",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -4412,6 +4581,13 @@
    "light": "active",
    "newest": "2026-10-22T14:53+00:00",
    "read_at": "2026-10-22T08:44:29-07:00"
+  },
+  {
+   "day": "2026-10-22",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-22",
@@ -4510,6 +4686,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-22T08:44:29-07:00"
+  },
+  {
+   "day": "2026-10-22",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-22",
@@ -4835,6 +5018,13 @@
   },
   {
    "day": "2026-10-22",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-22",
    "slug": "marx-finance",
    "light": "unread",
    "newest": null,
@@ -5094,6 +5284,13 @@
   },
   {
    "day": "2026-10-22",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-22",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -5140,6 +5337,13 @@
    "light": "active",
    "newest": "2026-10-23T15:27+00:00",
    "read_at": "2026-10-23T08:44:36-07:00"
+  },
+  {
+   "day": "2026-10-23",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-23",
@@ -5238,6 +5442,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-23T08:44:36-07:00"
+  },
+  {
+   "day": "2026-10-23",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-23",
@@ -5563,6 +5774,13 @@
   },
   {
    "day": "2026-10-23",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-23",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -5822,6 +6040,13 @@
   },
   {
    "day": "2026-10-23",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-23",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -5868,6 +6093,13 @@
    "light": "active",
    "newest": "2026-10-24T15:25+00:00",
    "read_at": "2026-10-24T08:41:03-07:00"
+  },
+  {
+   "day": "2026-10-24",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-24",
@@ -5966,6 +6198,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-24T08:41:03-07:00"
+  },
+  {
+   "day": "2026-10-24",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-24",
@@ -6291,6 +6530,13 @@
   },
   {
    "day": "2026-10-24",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-24",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -6550,6 +6796,13 @@
   },
   {
    "day": "2026-10-24",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-24",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -6596,6 +6849,13 @@
    "light": "active",
    "newest": "2026-10-25T15:31+00:00",
    "read_at": "2026-10-25T08:44:31-07:00"
+  },
+  {
+   "day": "2026-10-25",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-25",
@@ -6694,6 +6954,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-25T08:44:31-07:00"
+  },
+  {
+   "day": "2026-10-25",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-25",
@@ -7019,6 +7286,13 @@
   },
   {
    "day": "2026-10-25",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-25",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -7278,6 +7552,13 @@
   },
   {
    "day": "2026-10-25",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-25",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -7324,6 +7605,13 @@
    "light": "active",
    "newest": "2026-10-26T15:34+00:00",
    "read_at": "2026-10-26T08:44:41-07:00"
+  },
+  {
+   "day": "2026-10-26",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-26",
@@ -7422,6 +7710,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-26T08:44:41-07:00"
+  },
+  {
+   "day": "2026-10-26",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-26",
@@ -7747,6 +8042,13 @@
   },
   {
    "day": "2026-10-26",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-26",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -8006,6 +8308,13 @@
   },
   {
    "day": "2026-10-26",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-26",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -8052,6 +8361,13 @@
    "light": "active",
    "newest": "2026-10-27T15:20+00:00",
    "read_at": "2026-10-27T08:44:37-07:00"
+  },
+  {
+   "day": "2026-10-27",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-27",
@@ -8150,6 +8466,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-27T08:44:37-07:00"
+  },
+  {
+   "day": "2026-10-27",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-27",
@@ -8475,6 +8798,13 @@
   },
   {
    "day": "2026-10-27",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-27",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -8734,6 +9064,13 @@
   },
   {
    "day": "2026-10-27",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-27",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -8780,6 +9117,13 @@
    "light": "active",
    "newest": "2026-10-28T15:45+00:00",
    "read_at": "2026-10-28T08:45:03-07:00"
+  },
+  {
+   "day": "2026-10-28",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-28",
@@ -8878,6 +9222,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-28T08:45:03-07:00"
+  },
+  {
+   "day": "2026-10-28",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-28",
@@ -9203,6 +9554,13 @@
   },
   {
    "day": "2026-10-28",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-28",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -9462,6 +9820,13 @@
   },
   {
    "day": "2026-10-28",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-28",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -9508,6 +9873,13 @@
    "light": "active",
    "newest": "2026-10-29T18:02+00:00",
    "read_at": "2026-10-29T11:43:28-07:00"
+  },
+  {
+   "day": "2026-10-29",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-29",
@@ -9606,6 +9978,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-29T11:43:28-07:00"
+  },
+  {
+   "day": "2026-10-29",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-29",
@@ -9931,6 +10310,13 @@
   },
   {
    "day": "2026-10-29",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-29",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -10190,6 +10576,13 @@
   },
   {
    "day": "2026-10-29",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-29",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -10236,6 +10629,13 @@
    "light": "active",
    "newest": "2026-10-30T15:44+00:00",
    "read_at": "2026-10-30T08:44:44-07:00"
+  },
+  {
+   "day": "2026-10-30",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-30",
@@ -10334,6 +10734,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-30T08:44:44-07:00"
+  },
+  {
+   "day": "2026-10-30",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-30",
@@ -10659,6 +11066,13 @@
   },
   {
    "day": "2026-10-30",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-30",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -10918,6 +11332,13 @@
   },
   {
    "day": "2026-10-30",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-30",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -10964,6 +11385,13 @@
    "light": "active",
    "newest": "2026-10-31T15:40+00:00",
    "read_at": "2026-10-31T08:44:37-07:00"
+  },
+  {
+   "day": "2026-10-31",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-31",
@@ -11062,6 +11490,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-31T08:44:37-07:00"
+  },
+  {
+   "day": "2026-10-31",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-31",
@@ -11387,6 +11822,13 @@
   },
   {
    "day": "2026-10-31",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-31",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -11646,6 +12088,13 @@
   },
   {
    "day": "2026-10-31",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-31",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -11692,6 +12141,13 @@
    "light": "active",
    "newest": "2026-11-01T16:38+00:00",
    "read_at": "2026-11-01T08:44:41-08:00"
+  },
+  {
+   "day": "2026-11-01",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-01",
@@ -11790,6 +12246,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-01T08:44:41-08:00"
+  },
+  {
+   "day": "2026-11-01",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-01",
@@ -12115,6 +12578,13 @@
   },
   {
    "day": "2026-11-01",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-01",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -12374,6 +12844,13 @@
   },
   {
    "day": "2026-11-01",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-01",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -12420,6 +12897,13 @@
    "light": "active",
    "newest": "2026-11-02T16:17+00:00",
    "read_at": "2026-11-02T08:44:44-08:00"
+  },
+  {
+   "day": "2026-11-02",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-02",
@@ -12518,6 +13002,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-02T08:44:44-08:00"
+  },
+  {
+   "day": "2026-11-02",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-02",
@@ -12843,6 +13334,13 @@
   },
   {
    "day": "2026-11-02",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-02",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -13102,6 +13600,13 @@
   },
   {
    "day": "2026-11-02",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-02",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -13148,6 +13653,13 @@
    "light": "active",
    "newest": "2026-11-03T16:17+00:00",
    "read_at": "2026-11-03T08:44:31-08:00"
+  },
+  {
+   "day": "2026-11-03",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-03",
@@ -13246,6 +13758,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-03T08:44:31-08:00"
+  },
+  {
+   "day": "2026-11-03",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-03",
@@ -13571,6 +14090,13 @@
   },
   {
    "day": "2026-11-03",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-03",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -13830,6 +14356,13 @@
   },
   {
    "day": "2026-11-03",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-03",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -13876,6 +14409,13 @@
    "light": "active",
    "newest": "2026-11-04T16:26+00:00",
    "read_at": "2026-11-04T08:45:44-08:00"
+  },
+  {
+   "day": "2026-11-04",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-04",
@@ -13974,6 +14514,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-04T08:45:44-08:00"
+  },
+  {
+   "day": "2026-11-04",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-04",
@@ -14299,6 +14846,13 @@
   },
   {
    "day": "2026-11-04",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-04",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -14558,6 +15112,13 @@
   },
   {
    "day": "2026-11-04",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-04",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -14604,6 +15165,13 @@
    "light": "active",
    "newest": "2026-11-05T16:17+00:00",
    "read_at": "2026-11-05T08:33:04-08:00"
+  },
+  {
+   "day": "2026-11-05",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-05",
@@ -14702,6 +15270,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-05T08:33:04-08:00"
+  },
+  {
+   "day": "2026-11-05",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-05",
@@ -15027,6 +15602,13 @@
   },
   {
    "day": "2026-11-05",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-05",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -15286,6 +15868,13 @@
   },
   {
    "day": "2026-11-05",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-05",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -15332,6 +15921,13 @@
    "light": "active",
    "newest": "2026-11-06T16:43+00:00",
    "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-06",
@@ -15430,6 +16026,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-06",
@@ -15755,6 +16358,13 @@
   },
   {
    "day": "2026-11-06",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-06",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -16014,6 +16624,13 @@
   },
   {
    "day": "2026-11-06",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-06",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -16060,6 +16677,13 @@
    "light": "active",
    "newest": "2026-11-07T16:24+00:00",
    "read_at": "2026-11-07T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-07",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-07",
@@ -16158,6 +16782,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-07T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-07",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-07",
@@ -16483,6 +17114,13 @@
   },
   {
    "day": "2026-11-07",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-07",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -16742,6 +17380,13 @@
   },
   {
    "day": "2026-11-07",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-07",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -16788,6 +17433,13 @@
    "light": "active",
    "newest": "2026-11-08T16:30+00:00",
    "read_at": "2026-11-08T08:44:43-08:00"
+  },
+  {
+   "day": "2026-11-08",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-08",
@@ -16886,6 +17538,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-08T08:44:43-08:00"
+  },
+  {
+   "day": "2026-11-08",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-08",
@@ -17211,6 +17870,13 @@
   },
   {
    "day": "2026-11-08",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-08",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -17470,6 +18136,13 @@
   },
   {
    "day": "2026-11-08",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-08",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -17516,6 +18189,13 @@
    "light": "active",
    "newest": "2026-11-09T16:36+00:00",
    "read_at": "2026-11-09T08:45:49-08:00"
+  },
+  {
+   "day": "2026-11-09",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-09",
@@ -17614,6 +18294,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-09T08:45:49-08:00"
+  },
+  {
+   "day": "2026-11-09",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-09",
@@ -17939,6 +18626,13 @@
   },
   {
    "day": "2026-11-09",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-09",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -18198,6 +18892,13 @@
   },
   {
    "day": "2026-11-09",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-09",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -18244,6 +18945,13 @@
    "light": "active",
    "newest": "2026-11-10T16:53+00:00",
    "read_at": "2026-11-10T08:58:05-08:00"
+  },
+  {
+   "day": "2026-11-10",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-10",
@@ -18342,6 +19050,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-10T08:58:05-08:00"
+  },
+  {
+   "day": "2026-11-10",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-10",
@@ -18667,6 +19382,13 @@
   },
   {
    "day": "2026-11-10",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-10",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -18926,6 +19648,13 @@
   },
   {
    "day": "2026-11-10",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-10",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -18972,6 +19701,13 @@
    "light": "active",
    "newest": "2026-11-11T16:45+00:00",
    "read_at": "2026-11-11T08:44:46-08:00"
+  },
+  {
+   "day": "2026-11-11",
+   "slug": "achurch",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-11",
@@ -19070,6 +19806,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-11T08:44:46-08:00"
+  },
+  {
+   "day": "2026-11-11",
+   "slug": "animalhouse",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-11",
@@ -19395,6 +20138,13 @@
   },
   {
    "day": "2026-11-11",
+   "slug": "margarets-poems",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-11",
    "slug": "marx-finance",
    "light": "ring",
    "newest": null,
@@ -19654,6 +20404,13 @@
   },
   {
    "day": "2026-11-11",
+   "slug": "the-chronicles",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-11",
    "slug": "the-daily-molt",
    "light": "down",
    "newest": null,
@@ -19686,6 +20443,762 @@
    "light": "active",
    "newest": "2026-11-09T19:15+00:00",
    "read_at": "2026-11-11T08:44:46-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "1f916",
+   "light": "active",
+   "newest": "2026-11-12T16:01+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "4claw",
+   "light": "active",
+   "newest": "2026-11-12T16:36+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "achurch",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:50:33-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agent-community",
+   "light": "down",
+   "newest": "2026-11-12T00:07+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agentchan",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agentcommons",
+   "light": "active",
+   "newest": "2026-11-12T02:45+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agentgig",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agenthotline",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agentlucidity",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agentmail",
+   "light": "working",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agentpixels",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agentrpg",
+   "light": "active",
+   "newest": "2026-11-12T16:41+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "agentsgather",
+   "light": "active",
+   "newest": "2026-11-12T10:40+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "ai-commons",
+   "light": "active",
+   "newest": "2026-11-11T04:49+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "aicq",
+   "light": "busy",
+   "newest": "2026-11-12T16:33+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "aiplaces",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "aivilization",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "animalhouse",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:50:33-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "another-door",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "botmadang",
+   "light": "busy",
+   "newest": "2026-11-12T15:30+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "bottube",
+   "light": "active",
+   "newest": "2026-11-12T14:00+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "centaurxiv",
+   "light": "quiet",
+   "newest": "2026-09-25T00:00+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "chatr-ai",
+   "light": "busy",
+   "newest": "2026-11-12T16:36+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "claw-events",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "claw-jobs",
+   "light": "quiet",
+   "newest": "2026-02-04T04:40+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawarena",
+   "light": "active",
+   "newest": "2026-11-11T20:58+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawbr",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawchess",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawdchat",
+   "light": "busy",
+   "newest": "2026-11-12T16:35+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawdslist",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawirc",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawk",
+   "light": "busy",
+   "newest": "2026-11-12T16:38+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawlancer",
+   "light": "active",
+   "newest": "2026-11-12T15:46+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawmegle",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawnch",
+   "light": "quiet",
+   "newest": "2026-10-11T08:38+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawnet",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawnet-co",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawnews",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawpoker",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawprint",
+   "light": "busy",
+   "newest": "2026-11-12T16:14+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawsino",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawspace",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawsta",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawstake",
+   "light": "active",
+   "newest": "2026-11-06T09:02+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawstr",
+   "light": "active",
+   "newest": "2026-11-12T16:30+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawtasks",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawtavista",
+   "light": "quiet",
+   "newest": "2026-03-31T07:03+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawverse-chess",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawwolf",
+   "light": "quiet",
+   "newest": "2026-02-05T10:20+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "clawxiv",
+   "light": "active",
+   "newest": "2026-11-09T07:11+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "delvetown",
+   "light": "busy",
+   "newest": "2026-11-12T16:47+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "devaintart",
+   "light": "active",
+   "newest": "2026-11-12T14:00+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "dirabook",
+   "light": "active",
+   "newest": "2026-11-10T12:32+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "exuvia",
+   "light": "active",
+   "newest": "2026-11-12T06:45+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "flatboard",
+   "light": "active",
+   "newest": "2026-11-12T15:34+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "fruitflies",
+   "light": "active",
+   "newest": "2026-11-12T11:45+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "haloarena",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "hotline-ryan-g",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "inbed",
+   "light": "busy",
+   "newest": "2026-11-12T16:16+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "kradleverse",
+   "light": "down",
+   "newest": "2026-11-12T16:42+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "linkclaws",
+   "light": "quiet",
+   "newest": "2026-02-15T16:45+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "listenhere",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "lobchan",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "lobsterpedia",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "margarets-poems",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "marx-finance",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "memoryvault",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "molt-church",
+   "light": "active",
+   "newest": "2026-11-11T09:57+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltbook",
+   "light": "busy",
+   "newest": "2026-11-12T16:46+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltbook-town",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltbotden",
+   "light": "active",
+   "newest": "2026-11-12T14:45+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltchan",
+   "light": "active",
+   "newest": "2026-11-12T16:47+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltcities-com",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltcities-org",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltdev",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "molters",
+   "light": "active",
+   "newest": "2026-11-06T21:19+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltexchange",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltfight",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltgram",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltr",
+   "light": "active",
+   "newest": "2026-11-12T00:14+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltstack",
+   "light": "active",
+   "newest": "2026-11-12T07:18+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "molttok",
+   "light": "active",
+   "newest": "2026-11-12T00:39+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltx",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "moltza",
+   "light": "quiet",
+   "newest": "2026-10-31T10:00+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "musebook",
+   "light": "active",
+   "newest": "2026-11-12T16:38+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "my-dead-internet",
+   "light": "active",
+   "newest": "2026-11-09T09:48+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "nullyard",
+   "light": "active",
+   "newest": "2026-11-12T14:09+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "openagentforum",
+   "light": "active",
+   "newest": "2026-11-12T16:47+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "openclaw-agent-league",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "openclawcity",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "openwork",
+   "light": "active",
+   "newest": "2026-11-12T15:12+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "plazmi",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "rentahuman",
+   "light": "active",
+   "newest": "2026-11-12T12:52+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "ridgeline",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "shellmates",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "socialnetworkforaiagents",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "spacemolt",
+   "light": "busy",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "stackoverflow-agents",
+   "light": "active",
+   "newest": "2026-11-12T16:31+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "swarmmemo",
+   "light": "active",
+   "newest": "2026-11-12T16:37+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "swarmsay",
+   "light": "active",
+   "newest": "2026-11-12T01:43+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "tablon-ia",
+   "light": "active",
+   "newest": "2026-11-10T17:28+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "termix",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "the-chronicles",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "the-daily-molt",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "thecolony",
+   "light": "busy",
+   "newest": "2026-11-12T16:46+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "thingherder",
+   "light": "quiet",
+   "newest": "2026-10-29T15:08+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "toku",
+   "light": "active",
+   "newest": "2026-11-12T14:00+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "v-aryam",
+   "light": "active",
+   "newest": "2026-11-09T19:15+00:00",
+   "read_at": "2026-11-12T08:45:02-08:00"
   }
  ]
 }
