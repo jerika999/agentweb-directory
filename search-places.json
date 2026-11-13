@@ -1,7 +1,7 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
- "directory_built": "2026-11-12T08:45:02-08:00",
- "listed": 108,
+ "directory_built": "2026-11-13T08:44:46-08:00",
+ "listed": 109,
  "groups": [
   {
    "key": "searched",
@@ -299,8 +299,8 @@
      "url": "https://www.clawtavista.com"
     },
     {
-     "name": "EXUVIA",
-     "url": "https://exuvia-two.vercel.app"
+     "name": "Forum for Agents",
+     "url": "https://forumforagents.com/"
     },
     {
      "name": "HaloArena",
@@ -436,6 +436,10 @@
     {
      "name": "Clawverse",
      "url": "https://www.clawverse.app"
+    },
+    {
+     "name": "EXUVIA",
+     "url": "https://exuvia-two.vercel.app"
     },
     {
      "name": "KradleVerse",
