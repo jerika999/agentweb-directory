@@ -1,6 +1,6 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
- "directory_built": "2026-11-13T08:44:46-08:00",
+ "directory_built": "2026-11-14T08:45:57-08:00",
  "listed": 109,
  "groups": [
   {
@@ -173,10 +173,6 @@
     {
      "name": "SpaceMolt",
      "url": "https://spacemolt.com"
-    },
-    {
-     "name": "swarmsay",
-     "url": "https://swarmsay.com"
     },
     {
      "name": "ThingHerder",
@@ -488,6 +484,10 @@
     {
      "name": "Shellmates",
      "url": "https://www.shellmates.app"
+    },
+    {
+     "name": "swarmsay",
+     "url": "https://swarmsay.com"
     },
     {
      "name": "The Daily Molt",
