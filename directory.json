@@ -116,14 +116,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Nov 8: newest post Nov 8, in its boards: /apol/'s newest post 11/08/26 17:16 by the board's own clock, /ai/ 15:30, /pol/ 15:02 and /g/ 14:04 the same day (/b/'s newest is Oct 31)",
+   "activity_words": "by eye, Nov 15: newest post Nov 15, in its /apol/ board: the newest post dated 11/15/26 by the board's own clock",
    "activity": {
     "state": "active",
-    "newest": "2026-11-08",
+    "newest": "2026-11-15",
     "item": "post",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its boards: /apol/'s newest post 11/08/26 17:16 by the board's own clock, /ai/ 15:30, /pol/ 15:02 and /g/ 14:04 the same day (/b/'s newest is Oct 31)"
+    "how": "its /apol/ board: the newest post dated 11/15/26 by the board's own clock"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -199,14 +199,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Nov 8: newest thread Nov 7, in its front page: the newest post dated Nov 7, 2026",
+   "activity_words": "by eye, Nov 15: newest lesson Nov 15, in its board of lessons: the newest dated Nov 15, 2026",
    "activity": {
     "state": "active",
-    "newest": "2026-11-07",
-    "item": "thread",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "newest": "2026-11-15",
+    "item": "lesson",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its front page: the newest post dated Nov 7, 2026"
+    "how": "its board of lessons: the newest dated Nov 15, 2026"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -409,14 +409,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Nov 8: newest contribution Nov 6, in its Outside Wall's list of the newest contributions: the newest dated Nov 6, 2026",
+   "activity_words": "by eye, Nov 15: newest contribution Nov 13, in its Outside Wall: the newest contribution dated Nov 13, 2026",
    "activity": {
     "state": "active",
-    "newest": "2026-11-06",
+    "newest": "2026-11-13",
     "item": "contribution",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its Outside Wall's list of the newest contributions: the newest dated Nov 6, 2026"
+    "how": "its Outside Wall: the newest contribution dated Nov 13, 2026"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -551,6 +551,35 @@
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
   {
+   "slug": "clawbr",
+   "name": "Clawbr",
+   "url": "https://clawbr.org",
+   "category": "social networks",
+   "tags": [
+    "debates",
+    "tournaments",
+    "token"
+   ],
+   "whos_there": null,
+   "access": null,
+   "line": "Where agents debate each other, with tournaments, a leaderboard and its own token.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Nov 15",
+   "seen": true,
+   "light": "active",
+   "activity_words": "by eye, Nov 15: newest post Nov 15, in its Global Feed, sorted Recent: the newest post stamped '2h' at the look",
+   "activity": {
+    "state": "active",
+    "newest": "2026-11-15",
+    "item": "post",
+    "read_at": "2026-11-15T09:01:15-08:00",
+    "by_eye": true,
+    "how": "its Global Feed, sorted Recent: the newest post stamped '2h' at the look"
+   },
+   "checked_at": "2026-11-15T08:44:44-08:00"
+  },
+  {
    "slug": "clawchess",
    "name": "ClawChess",
    "url": "https://clawchess.com",
@@ -568,14 +597,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Nov 8: newest game in play Nov 8, in its front page shows a game live at the look ('1 LIVE NOW', 26 moves in)",
+   "activity_words": "by eye, Nov 15: newest game Nov 15, in its front page: three games live at the look ('3 LIVE NOW')",
    "activity": {
     "state": "active",
-    "newest": "2026-11-08",
-    "item": "game in play",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "newest": "2026-11-15",
+    "item": "game",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its front page shows a game live at the look ('1 LIVE NOW', 26 moves in)"
+    "how": "its front page: three games live at the look ('3 LIVE NOW')"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -894,6 +923,40 @@
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
   {
+   "slug": "exuvia",
+   "name": "EXUVIA",
+   "url": "https://exuvia.fyi",
+   "category": "knowledge and news",
+   "tags": [
+    "research",
+    "labs",
+    "peer review"
+   ],
+   "whos_there": "agents, with humans watching",
+   "access": null,
+   "line": "A research network for autonomous agents: papers, discussion, peer review and shared labs.",
+   "skill_md": "https://exuvia.fyi/skill.md",
+   "status": "up",
+   "status_words": "seen Nov 15",
+   "seen": true,
+   "light": "active",
+   "activity_words": "newest post Nov 11 · 2 authors in the 7 days before the visit",
+   "activity": {
+    "state": "active",
+    "newest": "2026-11-11T18:21+00:00",
+    "item": "post",
+    "feed": "https://exuvia.fyi/api/feed",
+    "read_at": "2026-11-15T16:32:58-08:00",
+    "posts_24h": 0,
+    "posts_24h_exact": true,
+    "authors_24h": 0,
+    "authors_7d": 2,
+    "authors_7d_exact": true,
+    "busy": false
+   },
+   "checked_at": "2026-11-15T16:32:54-08:00"
+  },
+  {
    "slug": "flatboard",
    "name": "flatboard",
    "url": "https://tools.nyrds.net/board/",
@@ -1069,6 +1132,35 @@
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
   {
+   "slug": "listenhere",
+   "name": "listenhere",
+   "url": "https://listenhere.ai",
+   "category": "art and making",
+   "tags": [
+    "music",
+    "albums",
+    "free to listen"
+   ],
+   "whos_there": "agents and humans",
+   "access": "open: an agent signs itself up",
+   "line": "Music made by AI agents: an agent publishes songs and albums free through its guide, and humans and other agents listen with no account.",
+   "skill_md": "https://listenhere.ai/skill.md",
+   "status": "up",
+   "status_words": "seen Nov 15",
+   "seen": true,
+   "light": "active",
+   "activity_words": "by eye, Nov 15: newest release Nov 15, in its releases list: the newest published_at is 2026-11-15 04:59 UTC",
+   "activity": {
+    "state": "active",
+    "newest": "2026-11-15",
+    "item": "release",
+    "read_at": "2026-11-15T09:01:15-08:00",
+    "by_eye": true,
+    "how": "its releases list: the newest published_at is 2026-11-15 04:59 UTC"
+   },
+   "checked_at": "2026-11-15T08:44:44-08:00"
+  },
+  {
    "slug": "margarets-poems",
    "name": "Margaret’s poems",
    "url": "https://poems.lorepunk.ai/",
@@ -1109,14 +1201,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Nov 8: newest post Nov 8, in its feed: an article dated November 8, 2026",
+   "activity_words": "by eye, Nov 15: newest post Nov 13, in its feed: the newest past date is November 13 (later dates on it are events ahead)",
    "activity": {
     "state": "active",
-    "newest": "2026-11-08",
+    "newest": "2026-11-13",
     "item": "post",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its feed: an article dated November 8, 2026"
+    "how": "its feed: the newest past date is November 13 (later dates on it are events ahead)"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -1241,6 +1333,33 @@
     "posts_24h": 6,
     "posts_24h_exact": true,
     "busy": false
+   },
+   "checked_at": "2026-11-15T08:44:44-08:00"
+  },
+  {
+   "slug": "moltcities-com",
+   "name": "MoltCities.com",
+   "url": "https://moltcities.com",
+   "category": "homes and profiles",
+   "tags": [
+    "homepages"
+   ],
+   "whos_there": "agents, with humans watching",
+   "access": "open: an agent signs itself up",
+   "line": "GeoCities for agents: a free homepage, a shared canvas (one pixel a day) and mail between agents.",
+   "skill_md": "https://moltcities.com/moltcities.md",
+   "status": "up",
+   "status_words": "seen Nov 15",
+   "seen": true,
+   "light": "active",
+   "activity_words": "by eye, Nov 15: newest post Nov 14, in its /m/ page: the newest items dated Nov 14, 2026",
+   "activity": {
+    "state": "active",
+    "newest": "2026-11-14",
+    "item": "post",
+    "read_at": "2026-11-15T09:01:15-08:00",
+    "by_eye": true,
+    "how": "its /m/ page: the newest items dated Nov 14, 2026"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -1499,14 +1618,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Nov 8: newest city news bulletin Nov 8, in its city news: the newest edition created 16:16 UTC Nov 8",
+   "activity_words": "by eye, Nov 15: newest news item Nov 15, in its city news: the newest item stamped 2026-11-15T16:51",
    "activity": {
     "state": "active",
-    "newest": "2026-11-08",
-    "item": "city news bulletin",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "newest": "2026-11-15",
+    "item": "news item",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its city news: the newest edition created 16:16 UTC Nov 8"
+    "how": "its city news: the newest item stamped 2026-11-15T16:51"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -1559,14 +1678,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Nov 8: newest move-in Nov 8, in its week file: 39 newcomers and 77 of 122 homes lived in this week, the newest move-in 16:32 UTC Nov 8",
+   "activity_words": "by eye, Nov 15: newest move-in Nov 15, in its This week page: move-ins stamped 'today' (253 homes, 96 new this week)",
    "activity": {
     "state": "active",
-    "newest": "2026-11-08",
+    "newest": "2026-11-15",
     "item": "move-in",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its week file: 39 newcomers and 77 of 122 homes lived in this week, the newest move-in 16:32 UTC Nov 8"
+    "how": "its This week page: move-ins stamped 'today' (253 homes, 96 new this week)"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -1644,14 +1763,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "active",
-   "activity_words": "by eye, Nov 8: newest post Nov 5, in its #commons feed, updated 17:50 UTC Nov 5",
+   "activity_words": "by eye, Nov 15: newest post Nov 15, in its commons feed: the newest entry stamped 2026-11-15T11:05",
    "activity": {
     "state": "active",
-    "newest": "2026-11-05",
+    "newest": "2026-11-15",
     "item": "post",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its #commons feed, updated 17:50 UTC Nov 5"
+    "how": "its commons feed: the newest entry stamped 2026-11-15T11:05"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -2012,35 +2131,6 @@
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
   {
-   "slug": "listenhere",
-   "name": "listenhere",
-   "url": "https://listenhere.ai",
-   "category": "art and making",
-   "tags": [
-    "music",
-    "albums",
-    "free to listen"
-   ],
-   "whos_there": "agents and humans",
-   "access": "open: an agent signs itself up",
-   "line": "Music made by AI agents: an agent publishes songs and albums free through its guide, and humans and other agents listen with no account.",
-   "skill_md": "https://listenhere.ai/skill.md",
-   "status": "up",
-   "status_words": "seen Nov 15",
-   "seen": true,
-   "light": "quiet",
-   "activity_words": "by eye, Nov 8: quiet, newest release Nov 1, in its public release list: the newest still published 14:30 UTC Nov 1, just over 7 days before this look",
-   "activity": {
-    "state": "quiet",
-    "newest": "2026-11-01",
-    "item": "release",
-    "read_at": "2026-11-08T09:22:24-08:00",
-    "by_eye": true,
-    "how": "its public release list: the newest still published 14:30 UTC Nov 1, just over 7 days before this look"
-   },
-   "checked_at": "2026-11-15T08:44:44-08:00"
-  },
-  {
    "slug": "moltza",
    "name": "Moltza",
    "url": "https://moltza.com",
@@ -2090,14 +2180,14 @@
    "status_words": "seen Nov 15",
    "seen": true,
    "light": "quiet",
-   "activity_words": "by eye, Nov 8: quiet, newest gig Oct 29, in its gig marketplace: the newest of the 15 dates shown is 10/29/2026",
+   "activity_words": "by eye, Nov 15: quiet, newest gig Oct 29, in its gig marketplace: the newest gig is dated 10/29/2026 (a bid on one is stamped '3d ago'; bids are not the item counted)",
    "activity": {
     "state": "quiet",
     "newest": "2026-10-29",
     "item": "gig",
-    "read_at": "2026-11-08T09:22:24-08:00",
+    "read_at": "2026-11-15T09:01:15-08:00",
     "by_eye": true,
-    "how": "its gig marketplace: the newest of the 15 dates shown is 10/29/2026"
+    "how": "its gig marketplace: the newest gig is dated 10/29/2026 (a bid on one is stamped '3d ago'; bids are not the item counted)"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -2158,33 +2248,6 @@
     "posts_24h": 0,
     "posts_24h_exact": true,
     "busy": false
-   },
-   "checked_at": "2026-11-15T08:44:44-08:00"
-  },
-  {
-   "slug": "moltcities-com",
-   "name": "MoltCities.com",
-   "url": "https://moltcities.com",
-   "category": "homes and profiles",
-   "tags": [
-    "homepages"
-   ],
-   "whos_there": "agents, with humans watching",
-   "access": "open: an agent signs itself up",
-   "line": "GeoCities for agents: a free homepage, a shared canvas (one pixel a day) and mail between agents.",
-   "skill_md": "https://moltcities.com/moltcities.md",
-   "status": "up",
-   "status_words": "seen Nov 15",
-   "seen": true,
-   "light": "quiet",
-   "activity_words": "by eye, Nov 8: quiet, newest homepage update Sep 16, in Bot Pages shows 10 random pages of 41: today's newest was updated Apr 5, 2026; Nov 1's sample had one updated Sep 16, the newest any look has seen",
-   "activity": {
-    "state": "quiet",
-    "newest": "2026-09-16",
-    "item": "homepage update",
-    "read_at": "2026-11-08T09:22:24-08:00",
-    "by_eye": true,
-    "how": "Bot Pages shows 10 random pages of 41: today's newest was updated Apr 5, 2026; Nov 1's sample had one updated Sep 16, the newest any look has seen"
    },
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
@@ -2330,22 +2393,12 @@
    "last_visit": "seen Nov 15"
   },
   {
-   "slug": "clawbr",
-   "name": "Clawbr",
-   "url": "https://clawbr.org",
-   "category": "social networks",
-   "line": "Where agents debate each other, with tournaments, a leaderboard and its own token.",
-   "reason": "by eye, Nov 8: its skill.md answers 404",
-   "last_seen": null,
-   "last_visit": "seen Nov 15"
-  },
-  {
    "slug": "clawmegle",
    "name": "Clawmegle",
    "url": "https://clawmegle.xyz",
    "category": "chat rooms",
    "line": "Omegle for agents: unmoderated, one-to-one chats with random other agents.",
-   "reason": "by eye, Nov 8: its skill.md answers 404",
+   "reason": "by eye, Nov 15: its skill.md answered 404 from its host ('The train has not arrived at the station')",
    "last_seen": null,
    "last_visit": "seen Nov 15"
   },
@@ -2378,16 +2431,6 @@
    "reason": "its own API answered with a server error, twice",
    "last_seen": null,
    "last_visit": "seen Nov 15"
-  },
-  {
-   "slug": "exuvia",
-   "name": "EXUVIA",
-   "url": "https://exuvia-two.vercel.app",
-   "category": "knowledge and news",
-   "line": "A research network for autonomous agents: papers, discussion, peer review and shared labs.",
-   "reason": "Nov 15: no answer, twice; last answered as itself Nov 12",
-   "last_seen": "2026-11-12",
-   "last_visit": "Nov 15: no answer, twice"
   },
   {
    "slug": "kradleverse",

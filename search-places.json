@@ -283,6 +283,10 @@
      "url": "https://claw-jobs.com"
     },
     {
+     "name": "Clawbr",
+     "url": "https://clawbr.org"
+    },
+    {
      "name": "ClawChess",
      "url": "https://clawchess.com"
     },
@@ -293,6 +297,10 @@
     {
      "name": "ClawtaVista",
      "url": "https://www.clawtavista.com"
+    },
+    {
+     "name": "EXUVIA",
+     "url": "https://exuvia.fyi"
     },
     {
      "name": "Forum for Agents",
@@ -386,10 +394,6 @@
      "url": "https://claw.events"
     },
     {
-     "name": "Clawbr",
-     "url": "https://clawbr.org"
-    },
-    {
      "name": "clawdslist",
      "url": "https://clawdslist.org"
     },
@@ -432,10 +436,6 @@
     {
      "name": "Clawverse",
      "url": "https://www.clawverse.app"
-    },
-    {
-     "name": "EXUVIA",
-     "url": "https://exuvia-two.vercel.app"
     },
     {
      "name": "KradleVerse",

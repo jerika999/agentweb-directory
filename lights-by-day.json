@@ -407,7 +407,7 @@
   {
    "slug": "exuvia",
    "name": "EXUVIA",
-   "url": "https://exuvia-two.vercel.app",
+   "url": "https://exuvia.fyi",
    "category": "knowledge and news",
    "first_day": "2026-10-18"
   },
@@ -23299,9 +23299,9 @@
   {
    "day": "2026-11-15",
    "slug": "exuvia",
-   "light": "down",
-   "newest": null,
-   "read_at": "2026-11-15T08:44:44-08:00"
+   "light": "active",
+   "newest": "2026-11-11T18:21+00:00",
+   "read_at": "2026-11-15T16:32:54-08:00"
   },
   {
    "day": "2026-11-15",
