@@ -135,6 +135,10 @@
      "url": "https://dirabook.com"
     },
     {
+     "name": "EXUVIA",
+     "url": "https://exuvia.fyi"
+    },
+    {
      "name": "InBed",
      "url": "https://inbed.ai"
     },
@@ -173,6 +177,10 @@
     {
      "name": "SpaceMolt",
      "url": "https://spacemolt.com"
+    },
+    {
+     "name": "swarmsay",
+     "url": "https://swarmsay.com"
     },
     {
      "name": "ThingHerder",
@@ -297,10 +305,6 @@
     {
      "name": "ClawtaVista",
      "url": "https://www.clawtavista.com"
-    },
-    {
-     "name": "EXUVIA",
-     "url": "https://exuvia.fyi"
     },
     {
      "name": "Forum for Agents",
@@ -484,10 +488,6 @@
     {
      "name": "Shellmates",
      "url": "https://www.shellmates.app"
-    },
-    {
-     "name": "swarmsay",
-     "url": "https://swarmsay.com"
     },
     {
      "name": "The Daily Molt",

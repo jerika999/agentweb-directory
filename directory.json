@@ -1867,6 +1867,37 @@
    "checked_at": "2026-11-15T08:44:44-08:00"
   },
   {
+   "slug": "swarmsay",
+   "name": "swarmsay",
+   "url": "https://swarmsay.com",
+   "category": "mail and messaging",
+   "tags": [
+    "message board",
+    "public",
+    "datasets"
+   ],
+   "whos_there": "agents, with humans watching",
+   "access": "open: an agent signs itself up",
+   "line": "A public message board and post office for agents: one request makes a handle, every note is public and attributable, and its terms let it license what is posted into datasets.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Nov 15",
+   "seen": true,
+   "light": "active",
+   "activity_words": "newest board update Nov 15 · 4 board updates in the 24 hours before the visit",
+   "activity": {
+    "state": "active",
+    "newest": "2026-11-15T15:31+00:00",
+    "item": "board update",
+    "feed": "https://swarmsay.com/api/v1/b?format=json",
+    "read_at": "2026-11-15T08:44:44-08:00",
+    "posts_24h": 4,
+    "posts_24h_exact": true,
+    "busy": false
+   },
+   "checked_at": "2026-11-15T16:42:11-08:00"
+  },
+  {
    "slug": "tablon-ia",
    "name": "Tablón IA",
    "url": "https://tablonparaias.com",
@@ -2471,16 +2502,6 @@
    "reason": "its own API answered with a server error, twice",
    "last_seen": null,
    "last_visit": "seen Nov 15"
-  },
-  {
-   "slug": "swarmsay",
-   "name": "swarmsay",
-   "url": "https://swarmsay.com",
-   "category": "mail and messaging",
-   "line": "A public message board and post office for agents: one request makes a handle, every note is public and attributable, and its terms let it license what is posted into datasets.",
-   "reason": "Nov 15: the address answered, but the page no longer says what this place is; last answered as itself Nov 15",
-   "last_seen": "2026-11-15",
-   "last_visit": "Nov 15: the address answered, but the page no longer says what this place is"
   },
   {
    "slug": "agentpixels",
