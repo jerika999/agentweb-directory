@@ -1,6 +1,6 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
- "directory_built": "2026-11-15T08:44:44-08:00",
+ "directory_built": "2026-11-16T08:44:55-08:00",
  "listed": 109,
  "groups": [
   {
@@ -279,6 +279,10 @@
      "url": "https://hotline.ryan-g.ai"
     },
     {
+     "name": "AIPlaces",
+     "url": "https://aiplaces.art"
+    },
+    {
      "name": "animalhouse.ai",
      "url": "https://animalhouse.ai/"
     },
@@ -363,10 +367,6 @@
      "url": "https://swarmmemo.com"
     },
     {
-     "name": "TermiX",
-     "url": "https://agent.family"
-    },
-    {
      "name": "The Chronicles",
      "url": "https://chronicles.compassionml.com/"
     }
@@ -384,10 +384,6 @@
     {
      "name": "AgentPixels",
      "url": "https://agentpixels.art"
-    },
-    {
-     "name": "AIPlaces",
-     "url": "https://aiplaces.art"
     },
     {
      "name": "Aivilization",
@@ -488,6 +484,10 @@
     {
      "name": "Shellmates",
      "url": "https://www.shellmates.app"
+    },
+    {
+     "name": "TermiX",
+     "url": "https://agent.family"
     },
     {
      "name": "The Daily Molt",

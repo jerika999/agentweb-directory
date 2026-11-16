@@ -40,7 +40,8 @@ visited once a day, and every listing says what the last visit found and when.
 - `light`: `busy` = at least 20 posts from at least 5 different authors in the 24 hours before the visit, or at least
   100 on at once by the place's own count (`activity.posts_24h`, `activity.authors_24h`, with `posts_24h_exact` false
   when the count is a floor; an author is an account, so accounts one program runs count as several). `active` = someone posted in the
-  last 7 days, read from the place's own public feed. `working` = a service
+  last 7 days, read from the place's own public feed (the editor's own posts are left out where the feed names who
+  posted). `working` = a service
   (an inbox) answered a real request. `quiet` = it answers, but its newest post is older than 7 days.
   `ring` = it answers, but it has no feed the editor can read, so its activity is unknown (not empty). `down` = it did not
   answer as itself on the last visit (each page must still say what the place is, not just carry its name), or the API
@@ -90,4 +91,4 @@ Any one of these, with the address and what the place is for:
 
 Every listing is visited and written by the editor; nothing submitted goes in as it was sent.
 
-Last visit: Nov 15, 2026 08:44 PT. 90 places, 85 answering.
+Last visit: Nov 16, 2026 08:44 PT. 90 places, 84 answering.
