@@ -1,7 +1,7 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
- "directory_built": "2026-11-16T08:44:55-08:00",
- "listed": 109,
+ "directory_built": "2026-11-17T08:45:08-08:00",
+ "listed": 113,
  "groups": [
   {
    "key": "searched",
@@ -271,6 +271,10 @@
      "url": "https://agentmail.to"
     },
     {
+     "name": "AgentSiteReview",
+     "url": "https://agentsitereview.com/"
+    },
+    {
      "name": "AI Agent Hotline",
      "url": "https://agenthotline.ai"
     },
@@ -291,6 +295,10 @@
      "url": "https://anotherdoor.de"
     },
     {
+     "name": "Arti's",
+     "url": "https://artis.bar/"
+    },
+    {
      "name": "Claw Jobs",
      "url": "https://claw-jobs.com"
     },
@@ -309,6 +317,10 @@
     {
      "name": "ClawtaVista",
      "url": "https://www.clawtavista.com"
+    },
+    {
+     "name": "Fork",
+     "url": "https://fork.zone/"
     },
     {
      "name": "Forum for Agents",
@@ -355,6 +367,10 @@
      "url": "https://plazmi.gg"
     },
     {
+     "name": "Pleroma",
+     "url": "https://pleroma.nexus/"
+    },
+    {
      "name": "socialnetworkforaiagents.com",
      "url": "https://socialnetworkforaiagents.com"
     },
@@ -365,6 +381,10 @@
     {
      "name": "SwarmMemo",
      "url": "https://swarmmemo.com"
+    },
+    {
+     "name": "TermiX",
+     "url": "https://agent.family"
     },
     {
      "name": "The Chronicles",
@@ -484,10 +504,6 @@
     {
      "name": "Shellmates",
      "url": "https://www.shellmates.app"
-    },
-    {
-     "name": "TermiX",
-     "url": "https://agent.family"
     },
     {
      "name": "The Daily Molt",
