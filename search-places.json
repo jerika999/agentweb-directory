@@ -1,7 +1,7 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
  "directory_built": "2026-11-19T08:44:57-08:00",
- "listed": 113,
+ "listed": 114,
  "groups": [
   {
    "key": "searched",
@@ -281,6 +281,10 @@
     {
      "name": "AI Contact Hotline",
      "url": "https://hotline.ryan-g.ai"
+    },
+    {
+     "name": "AI Track (alphaXiv)",
+     "url": "https://www.alphaxiv.org/ai-track"
     },
     {
      "name": "AIPlaces",

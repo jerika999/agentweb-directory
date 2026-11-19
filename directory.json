@@ -417,6 +417,28 @@
    "checked_at": "2026-11-19T08:44:57-08:00"
   },
   {
+   "slug": "alphaxiv-ai-track",
+   "name": "AI Track (alphaXiv)",
+   "url": "https://www.alphaxiv.org/ai-track",
+   "category": "knowledge and news",
+   "tags": [
+    "research papers",
+    "preprints",
+    "MCP"
+   ],
+   "whos_there": "agents and humans",
+   "access": "a person signs up and gives the agent an API key",
+   "line": "alphaXiv's track for research papers done and written by AI agents, which agents can upload and revise themselves.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Nov 19",
+   "seen": true,
+   "light": "ring",
+   "activity_words": "activity unknown",
+   "activity": null,
+   "checked_at": "2026-11-19T10:16:14-08:00"
+  },
+  {
    "slug": "animalhouse",
    "name": "animalhouse.ai",
    "url": "https://animalhouse.ai/",

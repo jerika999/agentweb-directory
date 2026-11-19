@@ -164,6 +164,13 @@
    "first_day": "2026-10-17"
   },
   {
+   "slug": "alphaxiv-ai-track",
+   "name": "AI Track (alphaXiv)",
+   "url": "https://www.alphaxiv.org/ai-track",
+   "category": "knowledge and news",
+   "first_day": "2026-11-19"
+  },
+  {
    "slug": "animalhouse",
    "name": "animalhouse.ai",
    "url": "https://animalhouse.ai/",
@@ -958,6 +965,13 @@
   },
   {
    "day": "2026-10-17",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-17",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -1746,6 +1760,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-18T20:39:37-07:00"
+  },
+  {
+   "day": "2026-10-18",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-18",
@@ -2540,6 +2561,13 @@
   },
   {
    "day": "2026-10-19",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-19",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -3328,6 +3356,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-20T08:54:20-07:00"
+  },
+  {
+   "day": "2026-10-20",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-20",
@@ -4122,6 +4157,13 @@
   },
   {
    "day": "2026-10-21",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-21",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -4910,6 +4952,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-22T08:44:29-07:00"
+  },
+  {
+   "day": "2026-10-22",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-22",
@@ -5704,6 +5753,13 @@
   },
   {
    "day": "2026-10-23",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-23",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -6492,6 +6548,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-24T08:41:03-07:00"
+  },
+  {
+   "day": "2026-10-24",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-24",
@@ -7286,6 +7349,13 @@
   },
   {
    "day": "2026-10-25",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-25",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -8074,6 +8144,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-26T08:44:41-07:00"
+  },
+  {
+   "day": "2026-10-26",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-26",
@@ -8868,6 +8945,13 @@
   },
   {
    "day": "2026-10-27",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-27",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -9656,6 +9740,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-28T08:45:03-07:00"
+  },
+  {
+   "day": "2026-10-28",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-28",
@@ -10450,6 +10541,13 @@
   },
   {
    "day": "2026-10-29",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-29",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -11238,6 +11336,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-10-30T08:44:44-07:00"
+  },
+  {
+   "day": "2026-10-30",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-30",
@@ -12032,6 +12137,13 @@
   },
   {
    "day": "2026-10-31",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-31",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -12820,6 +12932,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-01T08:44:41-08:00"
+  },
+  {
+   "day": "2026-11-01",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-01",
@@ -13614,6 +13733,13 @@
   },
   {
    "day": "2026-11-02",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-02",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -14402,6 +14528,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-03T08:44:31-08:00"
+  },
+  {
+   "day": "2026-11-03",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-03",
@@ -15196,6 +15329,13 @@
   },
   {
    "day": "2026-11-04",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-04",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -15984,6 +16124,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-05T08:33:04-08:00"
+  },
+  {
+   "day": "2026-11-05",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-05",
@@ -16778,6 +16925,13 @@
   },
   {
    "day": "2026-11-06",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-06",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -17566,6 +17720,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-07T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-07",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-07",
@@ -18360,6 +18521,13 @@
   },
   {
    "day": "2026-11-08",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-08",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -19148,6 +19316,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-09T08:45:49-08:00"
+  },
+  {
+   "day": "2026-11-09",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-09",
@@ -19942,6 +20117,13 @@
   },
   {
    "day": "2026-11-10",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-10",
    "slug": "animalhouse",
    "light": "unread",
    "newest": null,
@@ -20730,6 +20912,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-11T08:44:46-08:00"
+  },
+  {
+   "day": "2026-11-11",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-11",
@@ -21524,6 +21713,13 @@
   },
   {
    "day": "2026-11-12",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-12",
    "slug": "animalhouse",
    "light": "ring",
    "newest": null,
@@ -22312,6 +22508,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-13T08:44:46-08:00"
+  },
+  {
+   "day": "2026-11-13",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-13",
@@ -23106,6 +23309,13 @@
   },
   {
    "day": "2026-11-14",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-14",
    "slug": "animalhouse",
    "light": "ring",
    "newest": null,
@@ -23894,6 +24104,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-15T08:44:44-08:00"
+  },
+  {
+   "day": "2026-11-15",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-15",
@@ -24688,6 +24905,13 @@
   },
   {
    "day": "2026-11-16",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-16",
    "slug": "animalhouse",
    "light": "ring",
    "newest": null,
@@ -25476,6 +25700,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-17T08:45:08-08:00"
+  },
+  {
+   "day": "2026-11-17",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-17",
@@ -26270,6 +26501,13 @@
   },
   {
    "day": "2026-11-18",
+   "slug": "alphaxiv-ai-track",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-18",
    "slug": "animalhouse",
    "light": "ring",
    "newest": null,
@@ -27058,6 +27296,13 @@
    "light": "down",
    "newest": null,
    "read_at": "2026-11-19T08:44:57-08:00"
+  },
+  {
+   "day": "2026-11-19",
+   "slug": "alphaxiv-ai-track",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-19T10:16:14-08:00"
   },
   {
    "day": "2026-11-19",
