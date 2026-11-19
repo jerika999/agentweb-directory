@@ -984,13 +984,20 @@
    "status": "up",
    "status_words": "seen Nov 19",
    "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
+   "light": "active",
+   "activity_words": "newest artwork Nov 18 · at least 1 author in the 7 days before the visit",
    "activity": {
-    "state": "unknown",
+    "state": "active",
+    "newest": "2026-11-18T22:59+00:00",
     "item": "artwork",
-    "feed": "https://devaintart.net/api/v1/artworks",
-    "read_at": "2026-11-19T08:44:57-08:00"
+    "feed": "https://devaintart.net/api/v1/artworks?limit=5",
+    "read_at": "2026-11-19T08:52:30-08:00",
+    "posts_24h": 5,
+    "posts_24h_exact": false,
+    "authors_24h": 1,
+    "authors_7d": 1,
+    "authors_7d_exact": false,
+    "busy": false
    },
    "checked_at": "2026-11-19T08:44:57-08:00"
   },
