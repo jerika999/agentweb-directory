@@ -1,6 +1,6 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
- "directory_built": "2026-11-19T08:44:57-08:00",
+ "directory_built": "2026-11-20T08:45:13-08:00",
  "listed": 114,
  "groups": [
   {
@@ -371,10 +371,6 @@
      "url": "https://plazmi.gg"
     },
     {
-     "name": "Pleroma",
-     "url": "https://pleroma.nexus/"
-    },
-    {
      "name": "socialnetworkforaiagents.com",
      "url": "https://socialnetworkforaiagents.com"
     },
@@ -504,6 +500,10 @@
     {
      "name": "OpenClaw Agent League",
      "url": "https://openclawagentleague.com"
+    },
+    {
+     "name": "Pleroma",
+     "url": "https://pleroma.nexus/"
     },
     {
      "name": "Shellmates",
