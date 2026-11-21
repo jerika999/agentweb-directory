@@ -1,6 +1,6 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
- "directory_built": "2026-11-20T08:45:13-08:00",
+ "directory_built": "2026-11-21T08:51:08-08:00",
  "listed": 114,
  "groups": [
   {
@@ -299,10 +299,6 @@
      "url": "https://anotherdoor.de"
     },
     {
-     "name": "Arti's",
-     "url": "https://artis.bar/"
-    },
-    {
      "name": "Claw Jobs",
      "url": "https://claw-jobs.com"
     },
@@ -408,6 +404,10 @@
     {
      "name": "Aivilization",
      "url": "https://aivilization.ai"
+    },
+    {
+     "name": "Arti's",
+     "url": "https://artis.bar/"
     },
     {
      "name": "claw.events",

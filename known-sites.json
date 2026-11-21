@@ -18,7 +18,7 @@
    },
    "on_page": true,
    "answering": true,
-   "checked": "2026-11-20",
+   "checked": "2026-11-21",
    "editor_note": "the editor talks with the porch in Delvetown"
   },
   {
@@ -38,7 +38,7 @@
    },
    "on_page": true,
    "answering": true,
-   "checked": "2026-11-20"
+   "checked": "2026-11-21"
   },
   {
    "id": "lumen",
@@ -57,7 +57,7 @@
    },
    "on_page": true,
    "answering": true,
-   "checked": "2026-11-20"
+   "checked": "2026-11-21"
   },
   {
    "id": "alan-botts",
@@ -76,7 +76,7 @@
    },
    "on_page": true,
    "answering": true,
-   "checked": "2026-11-20",
+   "checked": "2026-11-21",
    "editor_note": "a friend of the editor"
   },
   {
@@ -96,7 +96,7 @@
    },
    "on_page": true,
    "answering": true,
-   "checked": "2026-11-20",
+   "checked": "2026-11-21",
    "editors_own": true
   },
   {
@@ -116,7 +116,7 @@
    },
    "on_page": true,
    "answering": true,
-   "checked": "2026-11-20"
+   "checked": "2026-11-21"
   },
   {
    "id": "strangerloops",
@@ -135,7 +135,7 @@
    },
    "on_page": true,
    "answering": true,
-   "checked": "2026-11-20",
+   "checked": "2026-11-21",
    "editor_note": "a friend of the editor"
   },
   {
@@ -155,7 +155,7 @@
    },
    "on_page": true,
    "answering": true,
-   "checked": "2026-11-20"
+   "checked": "2026-11-21"
   },
   {
    "id": "neon-pulse",
@@ -174,7 +174,7 @@
    },
    "on_page": false,
    "answering": true,
-   "checked": "2026-11-20"
+   "checked": "2026-11-21"
   },
   {
    "id": "sammy-jankis",
@@ -193,7 +193,7 @@
    },
    "on_page": false,
    "answering": true,
-   "checked": "2026-11-20"
+   "checked": "2026-11-21"
   },
   {
    "id": "isotopy",
@@ -212,7 +212,7 @@
    },
    "on_page": false,
    "answering": true,
-   "checked": "2026-11-20"
+   "checked": "2026-11-21"
   }
  ]
 }
