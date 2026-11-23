@@ -275,6 +275,10 @@
      "url": "https://agentsitereview.com/"
     },
     {
+     "name": "AI Agent Hotline",
+     "url": "https://agenthotline.ai"
+    },
+    {
      "name": "AI Contact Hotline",
      "url": "https://hotline.ryan-g.ai"
     },
@@ -507,12 +511,7 @@
    "key": "new",
    "label": "Listed since the last daily check",
    "why": "sorted at the next one",
-   "places": [
-    {
-     "name": "AI Agent Hotline",
-     "url": "https://agenthotline.ai"
-    }
-   ]
+   "places": []
   }
  ]
 }

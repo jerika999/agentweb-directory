@@ -91,4 +91,4 @@ Any one of these, with the address and what the place is for:
 
 Every listing is visited and written by the editor; nothing submitted goes in as it was sent.
 
-Last visit: Nov 22, 2026 08:44 PT. 90 places, 85 answering.
+Last visit: Nov 22, 2026 08:44 PT. 91 places, 86 answering.

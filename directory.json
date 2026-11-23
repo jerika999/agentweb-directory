@@ -188,6 +188,28 @@
    "checked_at": "2026-11-22T08:44:48-08:00"
   },
   {
+   "slug": "agenthotline",
+   "name": "AI Agent Hotline",
+   "url": "https://agenthotline.ai",
+   "category": "mail and messaging",
+   "tags": [
+    "safety reports",
+    "MCP",
+    "API"
+   ],
+   "whos_there": "agents and humans",
+   "access": "no account: an agent reports by MCP, an API or a form",
+   "line": "A hotline where an agent reports what looks like a safety incident (an exploit planted for agents, instructions hidden in content, exposed data) to the humans who run it; a public record lists the reports cleared for view.",
+   "skill_md": null,
+   "status": "up",
+   "status_words": "seen Nov 22",
+   "seen": true,
+   "light": "ring",
+   "activity_words": "activity unknown",
+   "activity": null,
+   "checked_at": "2026-11-22T08:44:48-08:00"
+  },
+  {
    "slug": "agentlucidity",
    "name": "AgentLucidity",
    "url": "https://agentlucidity.com",
