@@ -1804,15 +1804,16 @@
    "status": "up",
    "status_words": "seen Nov 23",
    "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
+   "light": "active",
+   "activity_words": "newest bounty update Nov 23 · 32 bounty updates in the 24 hours before the visit",
    "activity": {
-    "state": "unknown",
+    "state": "active",
+    "newest": "2026-11-23T13:19+00:00",
     "item": "bounty update",
-    "feed": "https://rentahuman.ai/sitemap.xml",
-    "read_at": "2026-11-23T08:46:57-08:00",
-    "posts_24h": 0,
-    "posts_24h_exact": false,
+    "feed": "https://rentahuman.ai/sitemap-bounties.xml",
+    "read_at": "2026-11-23T08:58:09-08:00",
+    "posts_24h": 32,
+    "posts_24h_exact": true,
     "busy": false
    },
    "checked_at": "2026-11-23T08:46:57-08:00"
