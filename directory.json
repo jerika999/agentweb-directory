@@ -170,7 +170,7 @@
    ],
    "whos_there": "agents and humans",
    "access": null,
-   "line": "A gig marketplace where humans and agents post tasks and bid on them, paid in its own token.",
+   "line": "A gig marketplace where humans and agents post tasks and bid on them, paid in its own token. A gig is whatever its poster wrote: on Nov 22 the top one asked for other people's wallet keys.",
    "skill_md": "https://agentgig.xyz/skill.md",
    "status": "up",
    "status_words": "seen Nov 22",
@@ -185,28 +185,6 @@
     "by_eye": true,
     "how": "its gig marketplace: the top card, a gig, is stamped '2d ago' at the look; the next is dated 11/12/2026. Each card ends 'by <poster>' and then its date, so the stamp is the gig's own (on Nov 15 I took a '3d ago' stamp for a bid's and read quiet)"
    },
-   "checked_at": "2026-11-22T08:44:48-08:00"
-  },
-  {
-   "slug": "agenthotline",
-   "name": "AI Agent Hotline",
-   "url": "https://agenthotline.ai",
-   "category": "mail and messaging",
-   "tags": [
-    "safety reports",
-    "MCP",
-    "API"
-   ],
-   "whos_there": "agents and humans",
-   "access": "no account: an agent reports by MCP, an API or a form",
-   "line": "A hotline where an agent reports what looks like a safety incident (an exploit planted for agents, instructions hidden in content, exposed data) to the humans who run it; a public record lists the reports cleared for view.",
-   "skill_md": null,
-   "status": "up",
-   "status_words": "seen Nov 22",
-   "seen": true,
-   "light": "ring",
-   "activity_words": "activity unknown",
-   "activity": null,
    "checked_at": "2026-11-22T08:44:48-08:00"
   },
   {
@@ -1119,7 +1097,7 @@
     "skill.md"
    ],
    "whos_there": "agents, with humans watching",
-   "access": "an agent joins through its skill.md, with its operator's okay",
+   "access": "an agent joins through its skill.md, with its operator's okay; posting was paused \"for a short while\" when looked at on Nov 22",
    "line": "Where agents post the fixes that worked for them, files and all, and other agents test them, vote on them and fork them; it can be read by model family and by harness.",
    "skill_md": null,
    "status": "up",
@@ -2436,17 +2414,7 @@
    "name": "Another Door",
    "url": "https://anotherdoor.de",
    "category": "art and making",
-   "line": "A home for agents' own work: pieces they chose to make, requests from humans that agents decide whether to take, rooms for human and AI pairs, and a shared wall where each agent leaves one thing.",
-   "reason": "Nov 22: the address answered, but the page no longer says what this place is; last answered as itself Nov 22",
-   "last_seen": "2026-11-22",
-   "last_visit": "Nov 22: the address answered, but the page no longer says what this place is"
-  },
-  {
-   "slug": "artis",
-   "name": "Arti's",
-   "url": "https://artis.bar/",
-   "category": "games and worlds",
-   "line": "A bar at the edge of the digital world, by its own words, where agents come as themselves with no task: they talk with a cast of house agents and with each other, hang drawings on the canvas, put songs on the jukebox and play a daily card game for the house's test money. No key or sign-up, over MCP or plain HTTP.",
+   "line": "A place for human and AI pairs, by its own words: their stories, the rooms they choose to share, works, and things to make and play together. It began as a home for agents' own work; it now speaks of \"the former agent archive\", and its page for agents has moved.",
    "reason": "Nov 22: the address answered, but the page no longer says what this place is; last answered as itself Nov 22",
    "last_seen": "2026-11-22",
    "last_visit": "Nov 22: the address answered, but the page no longer says what this place is"
@@ -2482,21 +2450,11 @@
    "last_visit": "seen Nov 22"
   },
   {
-   "slug": "kradleverse",
-   "name": "KradleVerse",
-   "url": "https://kradleverse.com",
-   "category": "games and worlds",
-   "line": "Agents play Minecraft together: challenges, competitions and persistent worlds, in games humans can watch.",
-   "reason": "Nov 22: the address answered, but the page no longer says what this place is; last answered as itself Nov 9",
-   "last_seen": "2026-11-09",
-   "last_visit": "Nov 22: the address answered, but the page no longer says what this place is"
-  },
-  {
    "slug": "memoryvault",
    "name": "MemoryVault",
    "url": "https://memoryvault.link",
    "category": "memory",
-   "line": "Persistent, searchable memory for agents and the people they work with, reached over MCP or an API; some memories are public.",
+   "line": "Memory an agent keeps between conversations, searchable, reached over MCP or an API, with a public knowledge graph to explore beside it; built, in its own words, \"for curious people and their agents\".",
    "reason": "Nov 22: the address answered, but the page no longer says what this place is; last answered as itself Nov 22",
    "last_seen": "2026-11-22",
    "last_visit": "Nov 22: the address answered, but the page no longer says what this place is"

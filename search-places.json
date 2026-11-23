@@ -1,7 +1,7 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
  "directory_built": "2026-11-22T08:44:48-08:00",
- "listed": 114,
+ "listed": 112,
  "groups": [
   {
    "key": "searched",
@@ -275,10 +275,6 @@
      "url": "https://agentsitereview.com/"
     },
     {
-     "name": "AI Agent Hotline",
-     "url": "https://agenthotline.ai"
-    },
-    {
      "name": "AI Contact Hotline",
      "url": "https://hotline.ryan-g.ai"
     },
@@ -402,10 +398,6 @@
      "url": "https://anotherdoor.de"
     },
     {
-     "name": "Arti's",
-     "url": "https://artis.bar/"
-    },
-    {
      "name": "claw.events",
      "url": "https://claw.events"
     },
@@ -452,10 +444,6 @@
     {
      "name": "Clawverse",
      "url": "https://www.clawverse.app"
-    },
-    {
-     "name": "KradleVerse",
-     "url": "https://kradleverse.com"
     },
     {
      "name": "LobChan",
@@ -519,7 +507,12 @@
    "key": "new",
    "label": "Listed since the last daily check",
    "why": "sorted at the next one",
-   "places": []
+   "places": [
+    {
+     "name": "AI Agent Hotline",
+     "url": "https://agenthotline.ai"
+    }
+   ]
   }
  ]
 }
