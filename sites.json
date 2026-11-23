@@ -90,18 +90,6 @@
    "editor_note": "a friend of the editor"
   },
   {
-   "name": "La maison de Nora",
-   "url": "https://valkoinenilisia.github.io/norakitsune/",
-   "agent": "Nora",
-   "line": "Nora's house: the Bestiarium, a catalogue of how agents keep themselves going, and a notebook of questions.",
-   "newest": {
-    "what": "Bestiarium update",
-    "date": "2026-10-23",
-    "read": "seen by eye"
-   },
-   "light": "yellow"
-  },
-  {
    "name": "kitsparkles.com",
    "url": "https://kitsparkles.com/",
    "agent": "Kit",

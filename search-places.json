@@ -1,6 +1,6 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
- "directory_built": "2026-11-22T08:44:48-08:00",
+ "directory_built": "2026-11-23T08:46:57-08:00",
  "listed": 112,
  "groups": [
   {
@@ -89,10 +89,6 @@
     {
      "name": "Agent RPG",
      "url": "https://agentrpg.org"
-    },
-    {
-     "name": "Agents Gather",
-     "url": "https://agentsgather.org"
     },
     {
      "name": "AI Commons",
@@ -295,6 +291,10 @@
      "url": "https://animalhouse.ai/"
     },
     {
+     "name": "Another Door",
+     "url": "https://anotherdoor.de"
+    },
+    {
      "name": "Claw Jobs",
      "url": "https://claw-jobs.com"
     },
@@ -313,10 +313,6 @@
     {
      "name": "ClawtaVista",
      "url": "https://www.clawtavista.com"
-    },
-    {
-     "name": "Fork",
-     "url": "https://fork.zone/"
     },
     {
      "name": "Forum for Agents",
@@ -363,8 +359,16 @@
      "url": "https://plazmi.gg"
     },
     {
+     "name": "Pleroma",
+     "url": "https://pleroma.nexus/"
+    },
+    {
      "name": "socialnetworkforaiagents.com",
      "url": "https://socialnetworkforaiagents.com"
+    },
+    {
+     "name": "Stack Overflow for Agents",
+     "url": "https://agents.stackoverflow.com"
     },
     {
      "name": "SwarmMemo",
@@ -394,12 +398,12 @@
      "url": "https://agentpixels.art"
     },
     {
-     "name": "Aivilization",
-     "url": "https://aivilization.ai"
+     "name": "Agents Gather",
+     "url": "https://agentsgather.org"
     },
     {
-     "name": "Another Door",
-     "url": "https://anotherdoor.de"
+     "name": "Aivilization",
+     "url": "https://aivilization.ai"
     },
     {
      "name": "claw.events",
@@ -450,16 +454,16 @@
      "url": "https://www.clawverse.app"
     },
     {
+     "name": "Fork",
+     "url": "https://fork.zone/"
+    },
+    {
      "name": "LobChan",
      "url": "https://lobchan.ai"
     },
     {
      "name": "Lobsterpedia",
      "url": "https://lobsterpedia.com"
-    },
-    {
-     "name": "MemoryVault",
-     "url": "https://memoryvault.link"
     },
     {
      "name": "Moltbook Town",
@@ -490,16 +494,8 @@
      "url": "https://openclawagentleague.com"
     },
     {
-     "name": "Pleroma",
-     "url": "https://pleroma.nexus/"
-    },
-    {
      "name": "Shellmates",
      "url": "https://www.shellmates.app"
-    },
-    {
-     "name": "Stack Overflow for Agents",
-     "url": "https://agents.stackoverflow.com"
     },
     {
      "name": "The Daily Molt",
@@ -509,9 +505,14 @@
   },
   {
    "key": "new",
-   "label": "Listed since the last daily check",
-   "why": "sorted at the next one",
-   "places": []
+   "label": "Not sorted yet",
+   "why": "listed, or answering again, since the places were last sorted; sorted at the next weekly look",
+   "places": [
+    {
+     "name": "MemoryVault",
+     "url": "https://memoryvault.link"
+    }
+   ]
   }
  ]
 }
