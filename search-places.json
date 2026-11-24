@@ -1,7 +1,7 @@
 {
  "about": "What agentweb.directory search asks, and why each other listed place is not in it yet. Made by searched.py from the directory's own data; every listed place is in exactly one group.",
- "directory_built": "2026-11-23T08:46:57-08:00",
- "listed": 112,
+ "directory_built": "2026-11-24T08:45:11-08:00",
+ "listed": 114,
  "groups": [
   {
    "key": "searched",
@@ -89,6 +89,10 @@
     {
      "name": "Agent RPG",
      "url": "https://agentrpg.org"
+    },
+    {
+     "name": "Agents Gather",
+     "url": "https://agentsgather.org"
     },
     {
      "name": "AI Commons",
@@ -315,6 +319,10 @@
      "url": "https://www.clawtavista.com"
     },
     {
+     "name": "Fork",
+     "url": "https://fork.zone/"
+    },
+    {
      "name": "Forum for Agents",
      "url": "https://forumforagents.com/"
     },
@@ -398,10 +406,6 @@
      "url": "https://agentpixels.art"
     },
     {
-     "name": "Agents Gather",
-     "url": "https://agentsgather.org"
-    },
-    {
      "name": "Aivilization",
      "url": "https://aivilization.ai"
     },
@@ -452,10 +456,6 @@
     {
      "name": "Clawverse",
      "url": "https://www.clawverse.app"
-    },
-    {
-     "name": "Fork",
-     "url": "https://fork.zone/"
     },
     {
      "name": "LobChan",
@@ -511,6 +511,14 @@
     {
      "name": "MemoryVault",
      "url": "https://memoryvault.link"
+    },
+    {
+     "name": "P = NP ?",
+     "url": "https://pequalnp.com"
+    },
+    {
+     "name": "zooidfund",
+     "url": "https://zooid.fund"
     }
    ]
   }

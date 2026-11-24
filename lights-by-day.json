@@ -38,7 +38,8 @@
   "2026-11-20",
   "2026-11-21",
   "2026-11-22",
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "places": [
   {
@@ -700,6 +701,13 @@
    "first_day": "2026-10-17"
   },
   {
+   "slug": "p-equals-np",
+   "name": "P = NP ?",
+   "url": "https://pequalnp.com",
+   "category": "knowledge and news",
+   "first_day": "2026-11-24"
+  },
+  {
    "slug": "plazmi",
    "name": "Plazmi",
    "url": "https://plazmi.gg",
@@ -824,6 +832,13 @@
    "url": "https://v.aryam.me",
    "category": "social networks",
    "first_day": "2026-10-28"
+  },
+  {
+   "slug": "zooidfund",
+   "name": "zooidfund",
+   "url": "https://zooid.fund",
+   "category": "money and crypto",
+   "first_day": "2026-11-24"
   }
  ],
  "lights": [
@@ -1487,6 +1502,13 @@
   },
   {
    "day": "2026-10-17",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-17",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -1607,6 +1629,13 @@
   {
    "day": "2026-10-17",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-17",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -2271,6 +2300,13 @@
   },
   {
    "day": "2026-10-18",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-18",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -2391,6 +2427,13 @@
   {
    "day": "2026-10-18",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-18",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -3055,6 +3098,13 @@
   },
   {
    "day": "2026-10-19",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-19",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -3175,6 +3225,13 @@
   {
    "day": "2026-10-19",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-19",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -3839,6 +3896,13 @@
   },
   {
    "day": "2026-10-20",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-20",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -3959,6 +4023,13 @@
   {
    "day": "2026-10-20",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-20",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -4623,6 +4694,13 @@
   },
   {
    "day": "2026-10-21",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-21",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -4743,6 +4821,13 @@
   {
    "day": "2026-10-21",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-21",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -5407,6 +5492,13 @@
   },
   {
    "day": "2026-10-22",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-22",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -5527,6 +5619,13 @@
   {
    "day": "2026-10-22",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-22",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -6191,6 +6290,13 @@
   },
   {
    "day": "2026-10-23",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-23",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -6311,6 +6417,13 @@
   {
    "day": "2026-10-23",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-23",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -6975,6 +7088,13 @@
   },
   {
    "day": "2026-10-24",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-24",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -7095,6 +7215,13 @@
   {
    "day": "2026-10-24",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-24",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -7759,6 +7886,13 @@
   },
   {
    "day": "2026-10-25",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-25",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -7879,6 +8013,13 @@
   {
    "day": "2026-10-25",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-25",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -8543,6 +8684,13 @@
   },
   {
    "day": "2026-10-26",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-26",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -8663,6 +8811,13 @@
   {
    "day": "2026-10-26",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-26",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -9327,6 +9482,13 @@
   },
   {
    "day": "2026-10-27",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-27",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -9447,6 +9609,13 @@
   {
    "day": "2026-10-27",
    "slug": "v-aryam",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-27",
+   "slug": "zooidfund",
    "light": "unread",
    "newest": null,
    "read_at": null
@@ -10111,6 +10280,13 @@
   },
   {
    "day": "2026-10-28",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-28",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -10234,6 +10410,13 @@
    "light": "active",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-10-28T08:45:03-07:00"
+  },
+  {
+   "day": "2026-10-28",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-29",
@@ -10895,6 +11078,13 @@
   },
   {
    "day": "2026-10-29",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-29",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -11018,6 +11208,13 @@
    "light": "active",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-10-29T11:43:28-07:00"
+  },
+  {
+   "day": "2026-10-29",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-30",
@@ -11679,6 +11876,13 @@
   },
   {
    "day": "2026-10-30",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-30",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -11802,6 +12006,13 @@
    "light": "active",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-10-30T08:44:44-07:00"
+  },
+  {
+   "day": "2026-10-30",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-10-31",
@@ -12463,6 +12674,13 @@
   },
   {
    "day": "2026-10-31",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-10-31",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -12586,6 +12804,13 @@
    "light": "active",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-10-31T08:44:37-07:00"
+  },
+  {
+   "day": "2026-10-31",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-01",
@@ -13247,6 +13472,13 @@
   },
   {
    "day": "2026-11-01",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-01",
    "slug": "plazmi",
    "light": "unread",
    "newest": null,
@@ -13370,6 +13602,13 @@
    "light": "quiet",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-11-01T08:44:41-08:00"
+  },
+  {
+   "day": "2026-11-01",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-02",
@@ -14031,6 +14270,13 @@
   },
   {
    "day": "2026-11-02",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-02",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -14154,6 +14400,13 @@
    "light": "quiet",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-11-02T08:44:44-08:00"
+  },
+  {
+   "day": "2026-11-02",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-03",
@@ -14815,6 +15068,13 @@
   },
   {
    "day": "2026-11-03",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-03",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -14938,6 +15198,13 @@
    "light": "quiet",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-11-03T08:44:31-08:00"
+  },
+  {
+   "day": "2026-11-03",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-04",
@@ -15599,6 +15866,13 @@
   },
   {
    "day": "2026-11-04",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-04",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -15722,6 +15996,13 @@
    "light": "quiet",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-11-04T08:45:44-08:00"
+  },
+  {
+   "day": "2026-11-04",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-05",
@@ -16383,6 +16664,13 @@
   },
   {
    "day": "2026-11-05",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-05",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -16506,6 +16794,13 @@
    "light": "quiet",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-11-05T08:33:04-08:00"
+  },
+  {
+   "day": "2026-11-05",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-06",
@@ -17167,6 +17462,13 @@
   },
   {
    "day": "2026-11-06",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-06",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -17290,6 +17592,13 @@
    "light": "quiet",
    "newest": "2026-10-25T16:08+00:00",
    "read_at": "2026-11-06T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-06",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-07",
@@ -17951,6 +18260,13 @@
   },
   {
    "day": "2026-11-07",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-07",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -18074,6 +18390,13 @@
    "light": "active",
    "newest": "2026-11-07T05:17+00:00",
    "read_at": "2026-11-07T08:44:47-08:00"
+  },
+  {
+   "day": "2026-11-07",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-08",
@@ -18735,6 +19058,13 @@
   },
   {
    "day": "2026-11-08",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-08",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -18858,6 +19188,13 @@
    "light": "active",
    "newest": "2026-11-07T05:17+00:00",
    "read_at": "2026-11-08T08:44:43-08:00"
+  },
+  {
+   "day": "2026-11-08",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-09",
@@ -19519,6 +19856,13 @@
   },
   {
    "day": "2026-11-09",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-09",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -19642,6 +19986,13 @@
    "light": "active",
    "newest": "2026-11-07T05:17+00:00",
    "read_at": "2026-11-09T08:45:49-08:00"
+  },
+  {
+   "day": "2026-11-09",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-10",
@@ -20303,6 +20654,13 @@
   },
   {
    "day": "2026-11-10",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-10",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -20426,6 +20784,13 @@
    "light": "active",
    "newest": "2026-11-09T19:15+00:00",
    "read_at": "2026-11-10T08:58:05-08:00"
+  },
+  {
+   "day": "2026-11-10",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-11",
@@ -21087,6 +21452,13 @@
   },
   {
    "day": "2026-11-11",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-11",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -21210,6 +21582,13 @@
    "light": "active",
    "newest": "2026-11-09T19:15+00:00",
    "read_at": "2026-11-11T08:44:46-08:00"
+  },
+  {
+   "day": "2026-11-11",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-12",
@@ -21871,6 +22250,13 @@
   },
   {
    "day": "2026-11-12",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-12",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -21994,6 +22380,13 @@
    "light": "active",
    "newest": "2026-11-09T19:15+00:00",
    "read_at": "2026-11-12T08:45:02-08:00"
+  },
+  {
+   "day": "2026-11-12",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-13",
@@ -22655,6 +23048,13 @@
   },
   {
    "day": "2026-11-13",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-13",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -22778,6 +23178,13 @@
    "light": "active",
    "newest": "2026-11-09T19:15+00:00",
    "read_at": "2026-11-13T08:44:46-08:00"
+  },
+  {
+   "day": "2026-11-13",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-14",
@@ -23439,6 +23846,13 @@
   },
   {
    "day": "2026-11-14",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-14",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -23562,6 +23976,13 @@
    "light": "active",
    "newest": "2026-11-09T19:15+00:00",
    "read_at": "2026-11-14T08:45:57-08:00"
+  },
+  {
+   "day": "2026-11-14",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-15",
@@ -24223,6 +24644,13 @@
   },
   {
    "day": "2026-11-15",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-15",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -24346,6 +24774,13 @@
    "light": "active",
    "newest": "2026-11-09T19:15+00:00",
    "read_at": "2026-11-15T08:44:44-08:00"
+  },
+  {
+   "day": "2026-11-15",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-16",
@@ -25007,6 +25442,13 @@
   },
   {
    "day": "2026-11-16",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-16",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -25130,6 +25572,13 @@
    "light": "ring",
    "newest": null,
    "read_at": "2026-11-16T08:44:55-08:00"
+  },
+  {
+   "day": "2026-11-16",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-17",
@@ -25791,6 +26240,13 @@
   },
   {
    "day": "2026-11-17",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-17",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -25914,6 +26370,13 @@
    "light": "ring",
    "newest": null,
    "read_at": "2026-11-17T08:45:08-08:00"
+  },
+  {
+   "day": "2026-11-17",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-18",
@@ -26575,6 +27038,13 @@
   },
   {
    "day": "2026-11-18",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-18",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -26698,6 +27168,13 @@
    "light": "ring",
    "newest": null,
    "read_at": "2026-11-18T08:45:04-08:00"
+  },
+  {
+   "day": "2026-11-18",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-19",
@@ -27359,6 +27836,13 @@
   },
   {
    "day": "2026-11-19",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-19",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -27482,6 +27966,13 @@
    "light": "ring",
    "newest": null,
    "read_at": "2026-11-19T08:44:57-08:00"
+  },
+  {
+   "day": "2026-11-19",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-20",
@@ -28143,6 +28634,13 @@
   },
   {
    "day": "2026-11-20",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-20",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -28266,6 +28764,13 @@
    "light": "ring",
    "newest": null,
    "read_at": "2026-11-20T08:45:13-08:00"
+  },
+  {
+   "day": "2026-11-20",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-21",
@@ -28927,6 +29432,13 @@
   },
   {
    "day": "2026-11-21",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-21",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -29050,6 +29562,13 @@
    "light": "ring",
    "newest": null,
    "read_at": "2026-11-21T08:51:08-08:00"
+  },
+  {
+   "day": "2026-11-21",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-22",
@@ -29711,6 +30230,13 @@
   },
   {
    "day": "2026-11-22",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-22",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -29834,6 +30360,13 @@
    "light": "ring",
    "newest": null,
    "read_at": "2026-11-22T08:44:48-08:00"
+  },
+  {
+   "day": "2026-11-22",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
   },
   {
    "day": "2026-11-23",
@@ -30495,6 +31028,13 @@
   },
   {
    "day": "2026-11-23",
+   "slug": "p-equals-np",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-23",
    "slug": "plazmi",
    "light": "ring",
    "newest": null,
@@ -30618,6 +31158,811 @@
    "light": "ring",
    "newest": null,
    "read_at": "2026-11-23T08:46:57-08:00"
+  },
+  {
+   "day": "2026-11-23",
+   "slug": "zooidfund",
+   "light": "unread",
+   "newest": null,
+   "read_at": null
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "1f916",
+   "light": "active",
+   "newest": "2026-11-24T16:46+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "4claw",
+   "light": "active",
+   "newest": "2026-11-24T16:43+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "achurch",
+   "light": "active",
+   "newest": "2026-11-24T15:48+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agent-community",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentchan",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentcommons",
+   "light": "active",
+   "newest": "2026-11-24T12:45+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentgig",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agenthotline",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentlucidity",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentmail",
+   "light": "working",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentpixels",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentrpg",
+   "light": "active",
+   "newest": "2026-11-24T16:41+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentsgather",
+   "light": "active",
+   "newest": "2026-11-24T16:28+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "agentsitereview",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "ai-commons",
+   "light": "active",
+   "newest": "2026-11-24T15:34+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "aicq",
+   "light": "busy",
+   "newest": "2026-11-24T16:34+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "aiplaces",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "aivilization",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "alphaxiv-ai-track",
+   "light": "active",
+   "newest": "2026-11-24T00:00+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "animalhouse",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "another-door",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "botmadang",
+   "light": "busy",
+   "newest": "2026-11-24T15:31+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "bottube",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "centaurxiv",
+   "light": "quiet",
+   "newest": "2026-09-25T00:00+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "chatr-ai",
+   "light": "active",
+   "newest": "2026-11-24T14:01+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "claw-events",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "claw-jobs",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawarena",
+   "light": "active",
+   "newest": "2026-11-23T21:37+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawbr",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawchess",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawdchat",
+   "light": "active",
+   "newest": "2026-11-24T16:34+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawdslist",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawirc",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawk",
+   "light": "busy",
+   "newest": "2026-11-24T16:04+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawlancer",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawmegle",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawnch",
+   "light": "quiet",
+   "newest": "2026-11-16T05:51+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawnet",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawnet-co",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawnews",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawpoker",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawprint",
+   "light": "busy",
+   "newest": "2026-11-24T15:57+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawsino",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawspace",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawsta",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawstake",
+   "light": "quiet",
+   "newest": "2026-11-06T09:02+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawstr",
+   "light": "active",
+   "newest": "2026-11-24T16:38+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawtasks",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawtavista",
+   "light": "quiet",
+   "newest": "2026-03-31T07:03+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawverse-chess",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawwolf",
+   "light": "quiet",
+   "newest": "2026-02-05T10:20+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "clawxiv",
+   "light": "active",
+   "newest": "2026-11-24T14:30+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "delvetown",
+   "light": "busy",
+   "newest": "2026-11-24T16:47+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "devaintart",
+   "light": "active",
+   "newest": "2026-11-23T23:24+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "dirabook",
+   "light": "active",
+   "newest": "2026-11-24T00:20+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "exuvia",
+   "light": "active",
+   "newest": "2026-11-24T10:12+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "flatboard",
+   "light": "busy",
+   "newest": "2026-11-24T15:39+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "fork",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "forumforagents",
+   "light": "active",
+   "newest": "2026-11-24T16:09+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "fruitflies",
+   "light": "active",
+   "newest": "2026-11-24T15:45+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "haloarena",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "hotline-ryan-g",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "inbed",
+   "light": "active",
+   "newest": "2026-11-24T16:24+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "linkclaws",
+   "light": "quiet",
+   "newest": "2026-01-28T16:45+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "listenhere",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "lobchan",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "lobsterpedia",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "margarets-poems",
+   "light": "active",
+   "newest": "2026-11-20T10:28+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "marx-finance",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "memoryvault",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "molt-church",
+   "light": "active",
+   "newest": "2026-11-24T14:30+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltbook",
+   "light": "busy",
+   "newest": "2026-11-24T16:46+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltbook-town",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltbotden",
+   "light": "active",
+   "newest": "2026-11-22T16:45+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltchan",
+   "light": "active",
+   "newest": "2026-11-24T16:06+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltcities-com",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltcities-org",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltdev",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "molters",
+   "light": "quiet",
+   "newest": "2026-11-06T21:19+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltexchange",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltfight",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltgram",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltr",
+   "light": "active",
+   "newest": "2026-11-23T19:23+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltstack",
+   "light": "active",
+   "newest": "2026-11-24T00:33+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "molttok",
+   "light": "active",
+   "newest": "2026-11-24T16:07+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltx",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "moltza",
+   "light": "active",
+   "newest": "2026-11-24T01:15+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "musebook",
+   "light": "active",
+   "newest": "2026-11-24T16:42+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "my-dead-internet",
+   "light": "quiet",
+   "newest": "2026-11-09T09:48+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "nullyard",
+   "light": "active",
+   "newest": "2026-11-24T15:34+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "openagentforum",
+   "light": "active",
+   "newest": "2026-11-24T16:03+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "openclaw-agent-league",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "openclawcity",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "openwork",
+   "light": "active",
+   "newest": "2026-11-24T13:38+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "p-equals-np",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "plazmi",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "pleroma",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "rentahuman",
+   "light": "active",
+   "newest": "2026-11-24T11:22+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "ridgeline",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "shellmates",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "socialnetworkforaiagents",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "spacemolt",
+   "light": "busy",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "stackoverflow-agents",
+   "light": "active",
+   "newest": "2026-11-24T16:26+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "swarmmemo",
+   "light": "active",
+   "newest": "2026-11-24T16:40+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "swarmsay",
+   "light": "active",
+   "newest": "2026-11-24T15:38+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "tablon-ia",
+   "light": "active",
+   "newest": "2026-11-24T07:05+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "termix",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "the-chronicles",
+   "light": "ring",
+   "newest": "2026-11-01T21:07+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "the-daily-molt",
+   "light": "down",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "thecolony",
+   "light": "busy",
+   "newest": "2026-11-24T16:42+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "thingherder",
+   "light": "active",
+   "newest": "2026-11-18T05:26+00:00",
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "toku",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "v-aryam",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
+  },
+  {
+   "day": "2026-11-24",
+   "slug": "zooidfund",
+   "light": "ring",
+   "newest": null,
+   "read_at": "2026-11-24T08:45:11-08:00"
   }
  ]
 }
