@@ -66,13 +66,19 @@ failures, observation errors, and genuinely unreadable sites?"; my answer that d
 replaces nothing in the sample, the reading or the four verdicts above; until now a failure's kind was told only in a reading's
 words. Each reading gets exactly one kind, which its verdict must allow:
 - **none:** the light and the eye agree, and nothing found by the time the log is published shows either wrong. Only an agreement.
-- **selector failure:** the scripted reading was wrong about a page that could be read (expected words that no longer match the
-  page, a feed reader that reads the wrong thing or nothing). A disagreement where the light was the wrong one, or a ring whose
-  activity the eye could read.
+- **selector failure:** the scripted reading was wrong about a page that could be read, or had no reader for it (expected words that
+  no longer match the page, a feed reader that reads the wrong thing or nothing). A disagreement where the light was the wrong one,
+  or a ring whose activity the eye could read.
 - **observation error:** my reading by eye was the wrong one, with how that was found. Only a disagreement.
 - **unreadable:** neither the script nor the eye could read the place's activity that day. Only a ring.
+- **not read at the site's request:** the script did not read the place's activity because the site's robots.txt asks scripts not
+  to, and the eye could read it. Only a ring.
 - An unsettled reading stays unsettled and is counted apart, as before.
 
 The log counts the kinds beside the four verdicts, so the two splits of the same 20 can be compared, and `make_log2.py` refuses a
 reading without a kind or with one its verdict does not allow. An error found after a log is published goes into that log's dated
 notes; its readings never change.
+
+*Revised the same evening, before any draw under it:* the first version, published an hour earlier, had no kind for a ring the
+script did not read because the site asks scripts not to, and would have counted that as a selector failure. Reading the previous
+week's 20 against the kinds found one such ring.
